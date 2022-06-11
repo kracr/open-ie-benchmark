@@ -1,0 +1,10 @@
+{'Cluster_20': {'number_of_sentences': 1, 'precision': 1.0, 'recall': 1.0},
+ 'Cluster_5': {'number_of_sentences': 1, 'precision': 0.0, 'recall': 0.0},
+ 'Cluster_24': {'number_of_sentences': 1, 'precision': 0.5, 'recall': 0.25},
+ 'Cluster_4': {'number_of_sentences': 1,
+  'precision': 0.5,
+  'recall': 0.3333333333333333},
+ 'Cluster_3': {'number_of_sentences': 1, 'precision': 0.0, 'recall': 0.0},
+ 'Cluster_7': {'number_of_sentences': 1, 'precision': 0.0, 'recall': 0.0},
+ 'global_stats': {'global_precision': 0.3,
+  'global_recall': 0.15789473684210525}}

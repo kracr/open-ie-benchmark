@@ -1,0 +1,2939 @@
+polydor records is located in london .
+No extractions found.
+
+austin is part of williamson county , texas , where the largest city is round rock and the county seat is georgetown . english is spoken in texas .
+0.924: (austin; is part of; williamson county where the largest city is round rock and the county seat is georgetown)
+0.804: (part of williamson county; is spoken in; texas)
+0.735: (austin; is; part of williamson county)
+0.653: (the largest city; is; round rock and the county seat is georgetown)
+
+caterpillar , inc . is located in peoria , illinois .
+0.9: (caterpillar; is located in; peoria)
+0.79: (inc; is located in; peoria)
+0.559: (peoria; is located in; illinois)
+0.553: (caterpillar; is located at; peoria)
+0.552: (caterpillar; is located on; peoria)
+0.342: (inc; is located at; peoria)
+0.341: (inc; is located on; peoria)
+
+the 1 decembrie 1918 university is located in alba iulia , alba county , romania . romania ' s capital is bucharest .
+0.894: (1918 university; is located in; alba iulia)
+0.56: (the 1 decembrie 1918 university is located in alba iulia; is; bucharest)
+0.538: (1918 university; is located at; alba iulia)
+0.537: (1918 university; is located on; alba iulia)
+
+andrews county airport is located in texas , united states . the capital of texas is austin and the language spoken is english .
+0.86: (andrews county airport; is located; united states the capital of texas is austin and the language spoken is english)
+0.75: (the capital of texas; is; austin and the language spoken is english)
+0.75: (andrews county airport; is located united states . the capital of texas is austin and the language spoken is english in; texas)
+0.456: (austin and the language spoken is english; be the capital of; texas)
+0.347: (andrews county airport; is located united states . the capital of texas is austin and the language spoken is english at; texas)
+0.346: (andrews county airport; is located united states . the capital of texas is austin and the language spoken is english on; texas)
+
+sri jayawardenepura kotte is the capital of sri lanka where ranil wickremesinghe is the leader . ampara hospital is located in the eastern province which is governed by the eastern provincial council .
+0.945: (ampara hospital; is located in; the eastern province which is governed by the eastern provincial council)
+0.924: (sri jayawardenepura kotte; is the capital of; sri lanka where ranil wickremesinghe is the leader)
+0.736: (sri jayawardenepura kotte; is; the capital of sri lanka)
+0.703: (ampara hospital; is located at; the eastern province which is governed by the eastern provincial council)
+0.702: (ampara hospital; is located on; the eastern province which is governed by the eastern provincial council)
+0.653: (ranil wickremesinghe; is; the leader)
+
+american buzz aldrin was born on 20 january 1930 in glen ridge , new jersey . he graduated from mit with a sc . d in 1963 . he was a fighter pilot and a member of the apollo 11 crew . he spent 52 minutes in space .
+0.876: (american buzz aldrin; was born new jersey on; 20 january 1930)
+0.857: (he; graduated from; mit)
+0.84: (he; spent 52 minutes in; space)
+0.779: (52 minutes; be spent in; space)
+0.719: (american buzz aldrin; was born; new jersey)
+0.704: (he; spent; 52 minutes)
+0.65: (he; be a member of; the apollo 11 crew)
+0.623: (he; was; a fighter pilot and a member of the apollo 11 crew)
+0.566: (american buzz aldrin; was born new jersey in; 20 january 1930)
+
+the akita museum of art is located in akita prefecture , akita , japan . brazilians are an ethnic group in japan .
+0.9: (the akita museum of art; is located in; akita prefecture , akita)
+0.553: (the akita museum of art; is located at; akita prefecture , akita)
+0.552: (the akita museum of art; is located on; akita prefecture , akita)
+0.504: (ethnic; are group in; japan)
+0.468: (akita prefecture , akita; is located in; japan . brazilians)
+
+al asad airbase is located in iraq where arabic is spoken .
+0.914: (al asad airbase; is located in; iraq where arabic is spoken)
+0.594: (al asad airbase; is located at; iraq where arabic is spoken)
+0.594: (al asad airbase; is located on; iraq where arabic is spoken)
+0.564: (arabic; is spoken in; iraq)
+
+huseyin butuner and hilmi guner designed the red granite and white marble baku turkish martyrs ' memorial which is dedicated to the ottoman army soldiers killed in the battle of baku . the memorial is located in baku , the capital of azerbaijan , where artur rasizade is the leader .
+0.903: (the red granite and white marble baku turkish martyrs ' memorial which is dedicated to the ottoman army soldiers; killed in; the battle of baku)
+0.894: (the memorial; is located in; baku)
+0.704: (artur rasizade; is; the leader)
+0.538: (the memorial; is located at; baku)
+0.537: (the memorial; is located on; baku)
+
+asilomar conference grounds were constructed in 1913 .
+0.919: (asilomar conference grounds; were constructed in; 1913)
+
+astella is owned by costa crociere and operated by aida cruises . it is located in genoa .
+0.9: (astella; is owned by; costa crociere)
+0.874: (astella; be operated by; aida cruises)
+0.869: (it; is located in; genoa)
+0.477: (it; is located at; genoa)
+0.476: (it; is located on; genoa)
+
+live nation entertainment is located in beverly hills , california .
+0.9: (live nation entertainment; is located in; beverly hills)
+0.558: (beverly hills; is located in; california)
+0.553: (live nation entertainment; is located at; beverly hills)
+0.552: (live nation entertainment; is located on; beverly hills)
+
+200 public square is located in cleveland , cuyahoga county , ohio , united states . cleveland ' s governing body is cleveland city council .
+0.919: (200 public square; is located in; cleveland)
+0.75: (cleveland s governing body; is; cleveland city council)
+0.609: (200 public square; is located at; cleveland)
+0.608: (200 public square; is located on; cleveland)
+0.455: (cleveland; is located in; ohio)
+
+awh engineering college is located in the state of kerala where the leader is kochi .
+0.902: (engineering college; awh is located in; the state of kerala)
+0.62: (engineering college; awh is located at; the state of kerala)
+0.619: (engineering college; awh is located on; the state of kerala)
+0.564: (the leader; is kochi in; kerala)
+
+adare manor is located in adare , county limerick which is part of munster . limerick city and county council governs the county .
+0.9: (adare manor; is located in; adare)
+0.817: (county limerick; is part of; munster)
+0.772: (limerick city and county council; governs; the county)
+0.553: (adare manor; is located at; adare)
+0.552: (adare manor; is located on; adare)
+
+the english language is spoken in canada where adam mcquaid was born .
+0.914: (the english language; is spoken in; canada where adam mcquaid was born)
+0.564: (adam mcquaid; was born in; canada)
+
+addis ababa city hall is located in the country of ethiopia .
+No extractions found.
+
+batchoy is eaten in the philippines where the language spoken is philippine spanish and arabic . ethnic groups there include the zamboangans and chinese filipino .
+0.894: (batchoy; is eaten in; the philippines where the language spoken)
+0.756: (ethnic groups; include; the zamboangans and chinese filipino)
+
+the school of business and social sciences at the aarhus university is located in the city of aarus , denmark . denmark ' s leader is lars lokke rasmussen and its government type is magistrate .
+0.926: (the school of business and social sciences; is located in; the city of aarus)
+0.861: (leader; denmark ' s leader is lars lokke; rasmussen and its government type)
+0.783: (the school of business and social sciences; is located of; aarus)
+0.632: (the school of business and social sciences; is located at; the city of aarus)
+0.632: (the school of business and social sciences; is located on; the city of aarus)
+0.617: (leader; is lars of; denmark)
+0.545: (denmark; is; magistrate)
+
+anaheim , california is part of california where the leader is the california state senate . the california state capitol is located in california .
+0.944: (california; anaheim , california is part of; california where the leader is the california state senate)
+0.914: (the california state capitol; is located in; california)
+0.595: (the california state capitol; is located at; california)
+0.594: (the california state capitol; is located on; california)
+
+spanish is spoken in new york .
+0.919: (spanish; is spoken in; new york)
+
+the asser levy public baths are located in new york city , manhattan , united states . gale brewer is the leader of manhattan .
+0.941: (manhattan , united states . gale brewer; is the leader of; manhattan)
+0.919: (the asser levy public baths; are located in; new york city)
+0.807: (manhattan , united states . gale brewer; is; the leader of manhattan)
+0.61: (the asser levy public baths; are located at; new york city)
+0.609: (the asser levy public baths; are located on; new york city)
+
+antwerp international airport serves the city in belgium . the leader of the country is charles michel and the language spoken is german .
+0.807: (antwerp international airport; serves; the city)
+0.704: (charles michel; is; german)
+0.653: (the leader of the country; is; charles michel)
+0.48: (the language; is; charles michel)
+0.399: (charles michel; be the leader of; the country)
+
+the aids journal is published in the united kingdom .
+0.919: (the aids journal; is published in; the united kingdom)
+
+11 diagonal street is located in south africa .
+0.919: (11 diagonal street; is located in; south africa)
+0.609: (11 diagonal street; is located at; south africa)
+0.608: (11 diagonal street; is located on; south africa)
+
+alison o ' donnell , who was born in 1963 , is a member of the mellow candle and the head south by weaving . she also plays in the genre of folk music .
+0.87: (alison; is a member of; the mellow candle and the head)
+0.858: (she; also plays in; the genre of folk music)
+0.673: (a member of the mellow candle she also plays in the genre of folk music; be alison o; donnell who was born in 1963)
+0.664: (alison; is; a member of the mellow candle she also plays in the genre of folk music)
+0.588: (alison; is a member of the mellow candle o; donnell who was born in 1963)
+
+a long long way is written in english .
+0.919: (a long long way; is written in; english)
+
+azal arena is located in baku .
+0.919: (azal arena; is located in; baku)
+0.609: (azal arena; is located at; baku)
+0.608: (azal arena; is located on; baku)
+
+aaron turner is an american who was born in massachusetts . he is a member of the twilight band and the band thelotus eaters . he also plays in the genre of sludge metal . he was active in 1995 .
+0.861: (he; is a member of; the twilight band)
+0.791: (he; also plays in; the genre of sludge metal)
+0.743: (he; was active in; 1995)
+0.635: (he; was; active)
+0.62: (he; is; a member of the twilight band and the band)
+0.61: (aaron turner; is; an american who was born in massachusetts he also plays in the genre of sludge metal . he was active in 1995)
+
+soho press is located in the united states .
+0.788: (press; soho is located in; the united states)
+0.398: (press; soho is located at; the united states)
+0.397: (press; soho is located on; the united states)
+
+the density of 19255 1994 vk8 is 2 . 0 gram per cubiccentimetres .
+0.662: (the density of 19255 1994; is; 2)
+0.302: (2; be the density of; 19255 1994)
+
+spacewatch is the discoverer of the 410777 2009 fd which has an orbital period of 39447000 . 0 and a periapsis of 88234300000 . 0 .
+0.944: (spacewatch; is the discoverer of; the 410777 2009 fd which has an orbital period of 39447000)
+0.736: (spacewatch; is; the discoverer of the 410777 2009 fd)
+0.564: (an orbital period of 39447000; be has by; the 410777 2009 fd)
+
+angola , indiana is part of steuben county , indiana in the united states . english is spoken in the u . s . and asian americans are one of the ethnic groups there .
+0.932: (indiana; angola , indiana is part of; steuben county)
+0.894: (english; is spoken in; the u)
+0.616: (angola , indiana is part of steuben county; be indiana in; the united states)
+
+11264 claudiomaccone has a length of 3453 . 0 kilometres and has a temperature of 173 . 0 kelvins . it has a periapsis of 296521000 . 0 and an orbital period of 1513 . 722 days .
+0.758: (11264 claudiomaccone; has; a length of 3453)
+0.699: (it; has a periapsis of 296521000; 0 and an orbital period of 1513)
+0.555: (it; has an orbital period of 1513; a periapsis of 296521000)
+0.38: (it; has 0 and an orbital period of 1513 . 722 days; a periapsis of 296521000)
+
+amarillo is part of potter county , texas , united states . the capital of the united states is washington d . c . and the language spoken is english .
+0.93: (amarillo; is part of; potter county)
+0.844: (the capital of the united states; is washington; d)
+0.778: (amarillo; is; part of potter county)
+0.739: (c . and the language spoken; is; english)
+0.526: (potter county; is part of; texas)
+0.419: (potter county; is part in; texas)
+
+10 hygiea has a length of 3453951582 . 33968 kilometres and a temperature of 164 . 0 kelvins .
+0.799: (10 hygiea; has a length of 3453951582; 33968 kilometres and a temperature of 164)
+0.681: (10 hygiea; has a temperature of 164; a length of 3453951582)
+0.512: (10 hygiea; has 33968 kilometres and a temperature of 164 . 0 kelvins; a length of 3453951582)
+
+the rock musician , anders osborne , is associated with both billy iuso and tab benoit . he also plays for the band , galactic .
+0.919: (the rock musician; is associated with; billy iuso and tab benoit)
+0.914: (anders osborne; is associated with; billy iuso and tab benoit)
+0.775: (he; also plays for; the band)
+
+taro is an ingredient in binignit which is a dessert . cookies are also a type of dessert .
+0.926: (cookies; are also a type of; dessert)
+0.909: (taro; is an ingredient in; binignit which is a dessert)
+0.746: (taro; is; an ingredient)
+0.642: (taro; is an ingredient of; binignit which is a dessert)
+
+the capital of the united states is washington d . c . and asian americans are one of the ethnic groups there . the country is also home to the city of albany which is part of benton county in oregon .
+0.919: (the country; is also home to; the city of albany)
+0.82: (the capital of the united states; is washington; d)
+0.804: (albany; is part of; benton county)
+0.778: (the country; is also; home)
+0.665: (the country; is also home of; the city of albany)
+
+the 11th mississippi infantry monument is located in adams county , pennsylvania , united states . adams county has carrol county , maryland to its southeast .
+0.919: (the 11th mississippi infantry monument; is located in; adams)
+0.728: (adams county; has; carrol county)
+0.61: (the 11th mississippi infantry monument; is located at; adams)
+0.609: (the 11th mississippi infantry monument; is located on; adams)
+0.57: (carrol county; be maryland to; its southeast)
+0.527: (adams; is located in; united states)
+
+the trinidad and tobago national football team are managed by akeem adams who plays for t & tec sports club .
+0.948: (the trinidad and tobago national football team; are managed by; akeem adams who plays for t & tec sports club)
+0.738: (akeem adams; plays for; t & tec sports club)
+
+the antares rocket ' s launch site is the mid - atlantic regional spaceport launch pad 0 .
+0.789: (the antares rocket s launch site; is; the mid - atlantic regional spaceport launch pad 0)
+
+binignit is a dessert found in the philippines , where the language is philippine english . a cookie is also a dessert .
+0.778: (a dessert; be found in; the philippines where the language is philippine english)
+0.752: (binignit; is; a dessert found in the philippines ,)
+0.751: (a cookie; is also; a dessert)
+0.653: (the language; is; philippine english)
+
+aek athens f . c . are managed by gus poyet who plays for real zaragoza and chelsea fc .
+0.884: (c; are managed by; gus poyet who plays for real zaragoza and chelsea fc)
+0.738: (gus poyet; plays for; real zaragoza and chelsea fc)
+0.736: (aek; athens; f)
+
+the black metal genre is a genre of death metal . it is also where the singer , aaron turner , plays .
+0.913: (the black metal genre; is a genre of; death metal)
+0.736: (the black metal genre; is; a genre of death metal)
+0.616: (the singer; be plays aaron; turner)
+
+anders osborne is a member of the band phil lesh and friends and is also associated with the band tab benoit .
+0.916: (osborne; is a member of; the band phil lesh and friends)
+0.743: (osborne; is; a member of the band phil lesh)
+
+al anderson nrbq is a rock band from the country of the same name . the band ' s main instrument is the guitar and they also play bhangra and blues .
+0.923: (al anderson nrbq; is a rock band from; the country of the same name)
+0.812: (they; also play; bhangra and blues)
+0.795: (they; is a rock band from; the country of the same name)
+0.763: (al anderson nrbq; is; a rock band from the country of the same name . the band ' s main instrument is the guitar)
+0.692: (they; is the guitar of; the band)
+0.674: (they; is; a rock band from the country of the same name . the band ' s main instrument is the guitar)
+0.638: (al anderson nrbq; is the guitar of; the band)
+0.623: (al anderson nrbq; also play; bhangra and blues)
+
+the height of alex plante ( born in canada ) is 1 . 9304 and he plays for the club anyang halla .
+0.774: (he; plays for; the club anyang halla)
+0.4: (he; be the height of; alex plante)
+
+the average speed of 1036 ganymed is 16 . 86 kilometre per second and its length is 611961000 . 0 kilometres .
+0.736: (86 kilometre per second and its length; is; 611961000)
+0.667: (the average speed of 1036 ganymed; is; 16)
+0.492: (16; be the average speed of; 1036 ganymed)
+0.351: (611961000; be 86 kilometre per; second)
+
+alfred zitarrosa died in montevideo , in the country of uruguay . the leader of the country is daniel martinez and the people are known as uruguayans .
+0.914: (the people; are known as; uruguayans)
+0.908: (alfred zitarrosa; died in; the country of uruguay)
+0.877: (alfred zitarrosa; died in; montevideo)
+0.688: (alfred zitarrosa; died; the country of uruguay)
+0.653: (the leader of the country; is; daniel martinez)
+0.614: (alfred zitarrosa; died; montevideo)
+0.399: (daniel martinez; be the leader of; the country)
+
+awh engineering college in kerala , india has an academic staff of 250 .
+0.74: (engineering college; has; an academic staff of 250)
+
+alison o ' donnell , who is in the genre of jazz , is a member of the deram records , which is located in london . she also has a record label called stanyan records .
+0.898: (alison; is a member of; the deram records which is located in london)
+0.863: (donnell; is in; the genre of jazz)
+0.84: (a record label; called; stanyan records)
+0.704: (a member of the deram records she also has a record label called stanyan records; be alison o; donnell who is in the genre of jazz)
+0.664: (alison; is; a member of the deram records she also has a record label called stanyan records)
+0.623: (alison; is a member of the deram records o; donnell who is in the genre of jazz)
+0.536: (a record label; also has in; she)
+
+109 felicitas has a temperature of 170 . 0 kelvins and a length of 523329000 . 0 kilometres .
+0.799: (109 felicitas; has a temperature of 170; 0 kelvins and a length of 523329000)
+0.681: (109 felicitas; has a length of 523329000; a temperature of 170)
+0.512: (109 felicitas; has 0 kelvins and a length of 523329000 . 0 kilometres; a temperature of 170)
+
+angola , indiana is part of steuben county , indiana in the united states . african americans are an ethnic group in the u . s . where english is the language spoken .
+0.932: (indiana; angola , indiana is part of; steuben county)
+0.89: (african americans; are an ethnic group in; the u)
+0.691: (english; is; the language spoken)
+0.446: (ethnic; are group in; the u)
+
+a wizard of mars originates from the united states where barack obama is the leader and asian americans are one of the ethnic groups .
+0.653: (barack obama; is; the leader and asian americans)
+0.477: (one of the ethnic groups; be a wizard of mars originates from; the united states where barack obama is the leader and asian americans)
+0.417: (one of the ethnic groups; be a wizard of; mars originates)
+
+al anderson is a member of the band , nrbq , which is in the genre of rock . the band ' s main instrument is the guitar and they also play as a band .
+0.913: (al anderson; is a member of; the band)
+0.865: (they; also play as; a band)
+0.833: (a member of the band , nrbq; is in; the genre of rock)
+0.757: (al anderson; is; a member of the band , nrbq which is in the genre of rock . the band ' s main instrument is the guitar and they also play as a band)
+0.692: (they; is the guitar of; the band)
+0.597: (they; is; the band ' s main instrument is the guitar)
+
+ahmet ertegun is from the united states where african americans are one of the ethnic groups . he is the creator of the rock and roll genre which is a variation of the blues .
+0.828: (he; ahmet ertegun is the united states where african americans are one the ethnic groups is the creator of; the rock and roll genre which is a variation of the blues)
+0.778: (the rock and roll genre; is a variation of; the blues)
+0.443: (he; ahmet ertegun is the united states where african americans are one the ethnic groups is; the creator of the rock and roll genre)
+
+the american submarine nr - 1 was built by general dynamics electric boat and was launched on 1969 - 01 - 25 . it has a length of 3 . 8 m and a top speed of 8 . 334 .
+0.79: (1; was built by; general dynamics electric boat)
+0.79: (1; was launched on; 1969)
+0.746: (it; has a length of 3; 8 m and a top speed of 8 . 334)
+0.555: (it; has a top speed of 8; a length of 3)
+0.38: (it; has 8 m and a top speed of 8 . 334; a length of 3)
+0.341: (1; was launched in; 1969)
+
+107 camilla was found on the 31st of december , 2006 and was found by c . w . woods . it has a length of 560937000 . 0 kilometres and a time of 2368 . 05 days .
+0.926: (107 camilla; was found on; the 31st of december , 2006)
+0.699: (it; has a length of 560937000; 0 kilometres and a time of 2368)
+0.678: (it; has a length of 560937000 of; 2368)
+0.667: (107 camilla; was found; w it has a length of 560937000 . 0 kilometres and a time of 2368 . 05 days)
+0.559: (0 kilometres and a time of 2368; be has a length of 560937000 by; w)
+0.555: (it; has a time of 2368; a length of 560937000)
+0.539: (107 camilla; was found w . woods . it has a length of 560937000 . 0 kilometres and a time of 2368 . 05 days by; c)
+0.466: (a length of 560937000; be has a time of 2368 by; w)
+0.417: (it; has 0 kilometres and a time of 2368 . 05 days of; 2368)
+0.38: (it; has 0 kilometres and a time of 2368 . 05 days; a length of 560937000)
+0.301: (a length of 560937000; be has 0 kilometres and a time of 2368 . 05 days by; w)
+
+buzz aldrin ( born edwin eugene aldrin jr . ) was a crew member of nasa ' s apollo 11 . he has won 20 awards .
+0.661: (he; has won; 20 awards)
+
+antioch , california has a population of 102372 and an area of 75 . 324 square kilometres . the area code is 997 and the utc offset is - 7 .
+0.747: (california; has; a population of 102372 and an area of 75)
+0.653: (the area code; is; 997 and the utc)
+0.567: (california; has an area of 75 in; antioch)
+0.482: (california; has a population of 102372 and an area of 75 . 324 square kilometres . the area code is 997 and the utc offset is - 7 in; antioch)
+
+a loyal character dancer is published by soho press in the united states . english is the language spoken in great britain and asian americans are one of the ethnic groups there .
+0.929: (a loyal character dancer; is published by; soho press)
+0.874: (a loyal character dancer; is published in; the united states)
+0.752: (the language; be spoken in; great britain and asian americans)
+0.752: (english; is; the language spoken in great britain and asian americans)
+0.738: (english; is the language in; great britain and asian americans)
+
+the 1089 tama periapsis has a length of 373513000 . 0 kilometres and was published on the 26th of november , 2005 .
+0.758: (the 1089 tama periapsis; has; a length of 373513000)
+
+bacon explosion comes from the united states where barack obama is the leader and white americans are one of the ethnic groups .
+0.843: (bacon explosion; comes from; the united states where barack obama is the leader and white americans)
+0.653: (barack obama; is; the leader and white americans)
+
+the height of aleksander barkov jr . is 1 . 905 .
+0.662: (the height of aleksander barkov jr; is; 1)
+0.302: (1; be the height of; aleksander barkov jr)
+
+the ground of a . s . gubbio 1910 is located in italy where the capital is rome and the official language is italian . the leader of the country is sergio mattarella and the people are called italians .
+0.752: (the capital; is; rome the leader of the country is sergio mattarella and the people)
+0.751: (rome the leader of the country is sergio mattarella and the people; are called; italians)
+0.705: (the leader of the country; is sergio; mattarella and the people)
+0.564: (the leader of the country; is sergio in; rome)
+
+andra singer was born in romania and is a member of the dance - pop genre . he also performs as a solo singer .
+0.9: (andra singer; was born in; romania)
+0.774: (he; also performs as; a solo singer)
+0.553: (andra singer; was born at; romania)
+0.552: (andra singer; was born on; romania)
+
+cake and bionico are both types of dessert .
+0.93: (cake and bionico; are both types of; dessert)
+
+alvis car and engineering company was founded in coventry and is the parent company of the rover company . it is the manufacturer of the alvis speed 25 which has a petrol engine .
+0.9: (it; is the manufacturer of; the alvis speed 25 which has a petrol engine)
+0.9: (alvis car and engineering company; was founded in; coventry)
+0.62: (it; is; the manufacturer of the alvis speed 25)
+0.564: (a petrol engine; be has by; the alvis speed 25)
+
+atlanta has a population density of 1299 . 0 inhabitants per square kilometre and a total area of 347 . 1 square kilometres . the area code is 404 .
+0.704: (the area code; is; 404)
+0.589: (atlanta; has a population density of 1299; 1 square kilometres)
+0.518: (atlanta; has 1 square kilometres . the area code is 404; a population density of 1299)
+
+elliot see was an american who was born in dallas . he graduated from the university of texas at austin .
+0.895: (he; graduated from; the university of texas)
+0.803: (he; graduated at; austin)
+
+the american journal of mathematics was first published in 1878 and is published by johns hopkins university press in the united states whose parent company is john hopkins university .
+0.665: (the american journal of mathematics; was; first)
+0.625: (john; hopkins; university)
+0.614: (whose parent company; is; john)
+0.609: (first; is published by; johns)
+0.564: (university; be hopkins by; the united states)
+0.553: (first; be published in; 1878)
+0.302: (first; be the american journal of; mathematics)
+
+addis ababa city hall was completed in 1964 and has a height of 42 metres . it has a floor area of 140000 . 0 square metres and was started in 1961 . the current tenants are the government of addis ababa .
+0.941: (the current tenants; are the government of; addis ababa)
+0.699: (it; has; a floor area of 140000)
+
+the native americans are an ethnic group in the united states where the capital is washington d . c . and the country is the origin of the alv x - 1 .
+0.933: (the native americans; are an ethnic group in; the united states where the capital is washington d)
+0.909: (the country; is the origin of; the alv x)
+0.865: (the country; are an ethnic group in; the united states where the capital is washington d)
+0.842: (the native americans; is the origin of; the alv x)
+0.811: (the capital; is washington; d)
+0.763: (the native americans; is; an ethnic group in the united states where the capital is washington d . c . and the country is the origin of the alv x)
+0.564: (ethnic; are group in; the united states where the capital is washington d)
+
+luciano spalletti plays for udinese calcio and empoli f . c . he also manages a . s . roma .
+0.823: (luciano spalletti; plays for; udinese calcio and empoli f)
+0.617: (he; also manages; a . s . roma)
+
+the american submarine nr - 1 was launched on 1969 - 01 - 25 and has a length of 45000 . 0 metres and a height of 3 . 8 m . it has a top speed of 8 . 334 .
+0.79: (1; was launched on; 1969)
+0.678: (it; has a top speed of 8; 334)
+0.555: (it; has 334; a top speed of 8)
+0.341: (1; was launched in; 1969)
+
+the runway length of andrews county airport is 896 . 0 .
+0.667: (the runway length of andrews county airport; is; 896)
+0.492: (896; be the runway length of; andrews county airport)
+
+antioch , california is located 13 . 0 metres above sea level and has a total area of 75 . 324 square kilometres .
+0.719: (antioch; is located; 13)
+0.707: (california; is located; 13)
+0.538: (13; is located above; sea level)
+
+atlantic city , new jersey has a population density of 1421 . 2 inhabitants per square kilometre and an area of 44 . 125 square kilometres .
+0.644: (atlantic city; has a population density of 1421; 125 square kilometres)
+0.518: (atlantic city; has 125 square kilometres; a population density of 1421)
+
+the school of business and social sciences at the aarhus university in aarus , denmark is affiliated with the european university association in brussels . its dean is thomas pallesen . denmark ' s leader is lars lokke rasmussen .
+0.929: (the school of business and social sciences at the aarhus university in aarus , denmark; is affiliated with; the european university association)
+0.911: (leader; denmark ' s leader is lars lokke; rasmussen)
+0.724: (its dean; is; thomas pallesen)
+0.617: (leader; is lars of; denmark)
+
+al anderson ' s nrbq band play rock music which is a variation of both the blues and the country music . the banjo is an instrument in the country and the genre is also known as bhangra .
+0.914: (the genre; is also known as; bhangra)
+0.89: (the banjo; is an instrument in; the country)
+0.817: (rock music; is a variation of; the blues and the country music)
+0.807: (al anderson; play; rock music which is a variation of both the blues and the country music)
+0.735: (the banjo; is; an instrument)
+
+binignit is a dessert found in the philippines . sandesh ( confectionery ) can also be served as a dessert . philippine english is spoken there .
+0.707: (binignit; is; a dessert found in the philippines)
+0.694: (a dessert; be found in; the philippines)
+
+the acura tlx is a luxury vehicle with a v6 engine and a front - engine design . it is made at the marysville auto plant .
+0.896: (the acura tlx; is a luxury vehicle with; a v6 engine and a front - engine design)
+0.869: (it; is made at; the marysville auto plant)
+0.61: (the acura tlx; is; a luxury vehicle it is made at the marysville auto plant)
+0.485: (it; is made in; the marysville auto plant)
+
+buzz aldrin is a us national who was born in glen ridge , new jersey . he graduated from mit with a sc . d in 1963 . he was a member of the apollo 11 crew which was operated by nasa . william anders was the backup pilot of apollo 11 . he is now retired .
+0.909: (he; was a member of; the apollo 11 crew which was operated by nasa)
+0.857: (he; graduated from; mit)
+0.842: (buzz aldrin; was the backup pilot of; apollo 11)
+0.781: (national; was born in; glen ridge)
+0.623: (he; was; a member of the apollo 11 crew)
+0.587: (buzz aldrin; was; the backup pilot of apollo 11)
+0.216: (the backup pilot of apollo 11; be buzz aldrin william; anders)
+
+abner w . sibal was born in ridgewood , queens and is a member of the connecticut senate from the 26th district . he is affiliated with the republican party of the united states .
+0.914: (he; is affiliated with; the republican party of the united states)
+0.9: (abner w; was born in; ridgewood)
+0.553: (abner w; was born at; ridgewood)
+0.552: (abner w; was born on; ridgewood)
+0.484: (ridgewood; was born in; queens)
+
+the spanish language is spoken in the country of argentina where the leader is known as the labour party ( argentina ) . the leader of the country is called the president .
+0.926: (the spanish language; is spoken in; the country of argentina)
+0.894: (the leader; is known as; the labour party)
+0.879: (the spanish language; is spoken of; argentina where the leader is known as the labour party ( argentina ) . the leader of the country is called the president)
+0.751: (the leader of the country; is called; the president)
+0.564: (the leader; is known in; argentina)
+
+born in fort campbell , allen forrest is the creator of the genre of " hip hop " . the genre is influenced by both " disco " and " funk " . it is also influenced by " drum and bass " .
+0.943: (allen forrest; is the creator of; the genre of " hip hop)
+0.893: (it; is also influenced by; drum and bass ")
+0.757: (allen forrest; is; the creator of the genre of " hip hop)
+
+the ground of motherwell fc is called " fir park " .
+0.717: (the ground of motherwell fc; is called; fir park)
+
+a wizard of mars originates from the united states where english is spoken ( as in great britain ) . the leader of the us is known as the president and asian americans are one of the ethnic groups there .
+0.922: (the leader of the us; is known as; the president and asian americans)
+
+alan bean ( born 1932 - 03 - 15 ) is now retired .
+No extractions found.
+
+the administrative science quarterly is published by cornell university in ithaca , new york . the president of the university is elizabeth garrett . cornell university is affiliated with the association of public and land grant universities as well as with the association of american universities .
+0.888: (cornell university; is affiliated as well as with; the association of american universities)
+0.863: (cornell university; is affiliated as well as with; the association of public and land grant universities)
+0.777: (the administrative science quarterly; is published new york . the president of the university is elizabeth garrett by; cornell university)
+0.719: (the administrative science quarterly; is published; new york)
+0.653: (the president of the university; is; elizabeth garrett)
+0.399: (elizabeth garrett; be the president of; the university)
+
+the leader of albuquerque , new mexico is called the mayor .
+0.762: (the leader of albuquerque; is called; the mayor)
+0.751: (new mexico; is called; the mayor)
+
+atlantic city , new jersey has a population density of 1421 . 2 inhabitants per square kilometre and a total area of 44 . 125 square kilometres . the area code is 609 and the leader is known as the mayor of atlantic city .
+0.937: (the leader; is known as; the mayor of atlantic city)
+0.653: (the area code; is; 609)
+0.589: (atlantic city; has a population density of 1421; 125 square kilometres)
+0.413: (the leader; be the mayor of; atlantic city)
+0.346: (atlantic city; has 125 square kilometres . the area code is 609 and the leader is known as the mayor of atlantic city; a population density of 1421)
+
+the 1st runway at angola international airport is made of asphalt .
+0.933: (the 1st runway; is made of; asphalt)
+
+the manager of fc terek grozny is rashid rakhimov and the ground is located in the city of grazny . the club is affiliated with fc spartak moscow whose chairman is sergey rodionov .
+0.925: (the club; is affiliated with; fc spartak moscow whose chairman is sergey rodionov)
+0.922: (the ground; is located in; the city of grazny)
+0.772: (the ground; is located of; grazny)
+0.691: (whose chairman; is; sergey rodionov)
+0.667: (the manager of fc terek grozny; is; rashid rakhimov)
+0.618: (the ground; is located at; the city of grazny)
+0.618: (the ground; is located on; the city of grazny)
+0.492: (rashid rakhimov; be the manager of; fc terek grozny)
+
+orange county , california is located within the united states .
+0.919: (orange county; is located within; the united states)
+0.914: (california; is located within; the united states)
+
+the school of business and social sciences at the aarhus university in aarus , denmark was established in 1928 . its dean is thomas pallesen and it has 737 academic staff . it is affiliated with the european university association . denmark ' s leader is lars lokke rasmussen .
+0.911: (leader; denmark ' s leader is lars lokke; rasmussen)
+0.9: (the school of business and social sciences at the aarhus university in aarus , denmark; was established in; 1928)
+0.747: (its dean; has; 737 academic staff)
+0.724: (its dean; is; thomas pallesen)
+0.717: (it; is affiliated; denmark ' s leader is lars)
+0.617: (leader; is lars of; denmark)
+0.581: (it; is affiliated denmark ' s leader is lars lokke rasmussen with; the european university association)
+0.569: (it; has; 737 academic staff)
+0.364: (it; is; thomas pallesen)
+
+attica , indiana is part of logan township , fountain county , indiana , united states . it has a population density of 783 . 1 inhabitants per square kilometre and an area of 4 . 14 square kilometres . it is located at an elevation of 167 . 0 metres above sea level .
+0.948: (indiana; attica , indiana is part of; logan township)
+0.902: (it; is located at; an elevation of 167)
+0.867: (it; is located above; sea level)
+0.77: (attica , indiana is part of logan township; united; states)
+0.746: (it; has a population density of 783; 1 inhabitants per square kilometre and an area of 4)
+0.612: (it; has an area of 4; a population density of 783)
+0.568: (it; is located in; an elevation of 167)
+0.559: (it; is located on; an elevation of 167)
+0.437: (it; has 1 inhabitants per square kilometre and an area of 4 . 14 square kilometres . it is located at an elevation of 167 . 0 metres above sea level; a population density of 783)
+
+the yuzhnoye design office is the manufacturer of the antares rocket which is a medium expendable launch system . it is located at the mid - atlantic regional spaceport launch pad 0 .
+0.924: (the yuzhnoye design office; is the manufacturer of; the antares rocket which is a medium expendable launch system)
+0.869: (it; is located at; the mid - atlantic regional spaceport launch pad 0)
+0.736: (the yuzhnoye design office; is; the manufacturer of the antares rocket)
+0.485: (it; is located in; the mid - atlantic regional spaceport launch pad 0)
+0.476: (it; is located on; the mid - atlantic regional spaceport launch pad 0)
+
+bhajji is also known as bhaji or bajji and comes from the karnataka region . the main ingredients are gram flour and vegetables .
+0.9: (bhajji; is also known as; bhaji or bajji)
+
+albany , georgia is part of the u . s . state of georgia . the leader of the united states is known as the president and one of the ethnic groups is asian americans .
+0.935: (georgia; albany , georgia is part of; the u)
+0.922: (the leader of the united states; is known as; the president and one of the ethnic groups)
+0.758: (albany , georgia is part of the u; s; state of georgia)
+
+alan martin ( footballer ) plays for accrington stanley f . c . and is attached to the club motherwell fc . his ground is in accrington .
+0.885: (his ground; is in; accrington)
+0.736: (alan martin; plays; c)
+0.714: (alan martin; plays c for; accrington stanley f)
+0.663: (alan martin; is attached to; the club motherwell fc)
+
+the united states house of representatives is located at the united states capitol .
+0.919: (the united states house of representatives; is located at; the united states capitol)
+0.616: (the united states house of representatives; is located in; the united states capitol)
+0.608: (the united states house of representatives; is located on; the united states capitol)
+
+the v8 is the engine of 1955 dodge which was made by the company dodge and has a 3 - speed automatic transmission . it has a length of 120 . 0 inches .
+0.944: (the v8; is the engine of; 1955 dodge which was made by the company dodge)
+0.678: (it; has a length of 120; 0 inches)
+0.61: (the v8; is; the engine of 1955 dodge it has a length of 120 . 0 inches)
+0.555: (it; has 0 inches; a length of 120)
+0.531: (the v8; has; a 3 - speed automatic transmission)
+0.475: (0 inches; be has a length of 120 by; the engine of 1955 dodge)
+0.385: (a length of 120; be has 0 inches by; the engine of 1955 dodge)
+
+albert b . white was born on the 22nd of september , 1856 . he died on the 3rd of july , 1941 .
+0.922: (white; was born on; 22nd of september , 1856)
+0.88: (he; died on; the 3rd of july , 1941)
+0.674: (white; was born albert; b)
+0.628: (white; was born in; 22nd of september , 1856)
+0.566: (he; died in; the 3rd of july , 1941)
+
+james craig watson was an american who graduated from the university of michigan . he was the discoverer of 103 hera which was found on the 7th of september , 1868 and died in madison , wisconsin .
+0.909: (he; was the discoverer of; 103 hera which was found on the 7th of september , 1868)
+0.895: (james craig watson; was the discoverer of; 103 hera which was found on the 7th of september , 1868)
+0.759: (james craig watson; was; an american who graduated from the university of michigan . he was the discoverer of 103 hera which was found on the 7th of september , 1868 and died in madison , wisconsin)
+
+the 19255 1994 vk8 has a height of 6105910000000 . 0 metres and a mass of 5 . 6 kilograms . it has an apoapsis of 6603633000 . 0 and an orbital period of 8788850000 . 0 . it was completed on december 31 , 2006 .
+0.839: (it; was completed on; december 31)
+0.758: (the 19255 1994 vk8; has; a height of 6105910000000)
+0.699: (it; has an apoapsis of 6603633000; 0 and an orbital period of 8788850000 . 0)
+0.555: (it; has 0 and an orbital period of 8788850000 . 0; an apoapsis of 6603633000)
+0.555: (it; has an orbital period of 8788850000; an apoapsis of 6603633000)
+0.429: (it; was completed in; december 31)
+
+andrew white is a rock musician who is part of the genre of " nu metal " . he is the founder of the company polydor records which is located in london . the company was previously known as " universal records " .
+0.894: (the company; was previously known as; universal records)
+0.861: (a rock musician; is part of; the genre of " nu metal)
+0.861: (he; is the founder of; the company polydor records)
+0.752: (andrew white; is; a rock musician who is part of the genre of " nu metal ")
+0.62: (he; is; the founder of the company polydor records which is located in london)
+
+the mason school of business are the current tenants of alan b miller hall in virginia , united states . the hall was designed by robert a m stern and is owned by the college of william and mary .
+0.951: (the mason school of business; are the current tenants of; alan b miller hall)
+0.937: (the hall; is owned by; the college of william)
+0.914: (the hall; was designed by; robert)
+0.55: (the current tenants of alan b miller hall the hall was designed by robert a m stern and is owned by the college of william and mary; be the mason school of; business)
+
+the owner of alhambra is the p & o company which is located in london . it was designed by the architects of the samueluda brothers and is 8 . 3 m long . it has a power type of humphrys tennant and dykes .
+0.879: (it; was designed by; the architects of the samueluda brothers)
+0.757: (the owner of alhambra; is; the p it was designed by the architects of the samueluda brothers and is 8 . 3 m long . it has a power type of humphrys tennant and dykes)
+0.589: (the p it was designed by the architects of the samueluda brothers and is 8 . 3 m long . it has a power type of humphrys tennant and dykes; be the owner of; alhambra)
+0.555: (it; 3 m long . has; a power type of humphrys tennant)
+
+the 14th new jersey volunteer infantry monument is located in the monocacy national battlefield , frederick county , maryland , united states . it was established on 11 july 1907 and is categorised as a historic district .
+0.893: (it; is categorised as; a historic district)
+0.869: (it; was established on; 11 july 1907)
+0.75: (the 14th new jersey volunteer infantry monument; is located , frederick county , maryland , united states . it was established on 11 july 1907 and is categorised as a historic district in; the monocacy national battlefield)
+0.704: (the 14th new jersey volunteer infantry monument; is located; united states it was established on 11 july 1907 and is categorised as a historic district)
+0.488: (it; was established in; 11 july 1907)
+0.347: (the 14th new jersey volunteer infantry monument; is located , frederick county , maryland , united states . it was established on 11 july 1907 and is categorised as a historic district at; the monocacy national battlefield)
+0.346: (the 14th new jersey volunteer infantry monument; is located , frederick county , maryland , united states . it was established on 11 july 1907 and is categorised as a historic district on; the monocacy national battlefield)
+
+103 hera has an oclc of 1622 . 213 days and a length of 3453170000 . 0 kilometres . it was born on the 27th of august 2011 .
+0.902: (it; was born on; the 27th of august 2011)
+0.758: (103 hera; has; an oclc of 1622)
+0.57: (it; was born in; the 27th of august 2011)
+
+marriott international is the tenant of ac hotel bella sky copenhagen which was designed by the architects of 3xn and has 23 floors .
+0.955: (marriott international; is the tenant of; ac hotel bella sky copenhagen which was designed by the architects of 3xn and has 23 floors)
+0.736: (marriott international; is; the tenant of ac hotel bella sky copenhagen)
+0.675: (23 floors; be has by; ac hotel bella sky copenhagen which was designed by the architects of 3xn)
+
+astella , owned by costa crociere , is located in genoa and operated by aida cruises . it was designed by the architect , meyer werft .
+0.907: (astella owned by costa crociere; is located in; genoa)
+0.898: (astella owned by costa crociere; be operated by; aida cruises)
+0.893: (it; was designed by; the architect , meyer werft)
+0.803: (astella; be owned by; costa crociere)
+0.574: (astella owned by costa crociere; is located at; genoa)
+0.573: (astella owned by costa crociere; is located on; genoa)
+
+the polish - soviet war is part of the russian civil war and was commanded by joseph stalin . it was fought by adam koc who died in new york city .
+0.914: (it; was fought by; adam koc who died in new york city)
+0.909: (soviet war; is part of; the russian civil war)
+0.74: (adam koc; died in; new york city)
+0.724: (soviet war; is; part of the russian civil war)
+0.371: (it; was fought in; the polish)
+
+the former name of 1089 tama is a894 va ; a904 vd ; it has a time of 1202 . 846 days and a periapsis of 288749000000 . 0 . it was created on the 26th of november 2005 .
+0.902: (it; was created on; the 26th of november 2005)
+0.678: (it; has of; 1202)
+0.647: (it; has; a time of 1202)
+0.355: (former; be name of; 1089 tama)
+
+320 south boston building was designed by the american george winkler .
+0.919: (320 south boston building; was designed by; the american george winkler)
+
+albert b . white was born on the 22nd of september , 1856 and is a politician .
+0.922: (white; was born on; 22nd of september , 1856)
+0.674: (white; was born albert; b)
+0.628: (white; was born in; 22nd of september , 1856)
+
+the american submarine nr - 1 was launched on 1969 - 01 - 25 and has a length of 45000 . 0 metres and a height of 3 . 8 m . it has a top speed of 8 . 334 and a 4 . 6 m long waterline .
+0.79: (1; was launched on; 1969)
+0.625: (it; has a top speed of 8; 334 and a 4)
+0.555: (it; has 334 and a 4 . 6 m long waterline; a top speed of 8)
+0.555: (it; has a 4; a top speed of 8)
+0.341: (1; was launched in; 1969)
+
+the oclc of 66063 1998 ro1 is 254989570 . it was completed on the 4th of november 2013 and has an orbit of 360 . 29 days and an escape velocity of 0 . 60815 kilometres per second .
+0.667: (the oclc of 66063 1998 ro1; is; 254989570)
+0.664: (it; was completed an escape velocity of 0 on; the 4th of november 2013)
+0.659: (it; was completed 29 days and an escape velocity of 0 . 60815 kilometres per second on; the 4th of november 2013)
+0.512: (it; was completed; 29 days and an escape velocity of 0)
+0.492: (254989570; be the oclc of; 66063 1998 ro1)
+0.267: (it; was completed an escape velocity of 0 in; the 4th of november 2013)
+0.263: (it; was completed 29 days and an escape velocity of 0 . 60815 kilometres per second in; the 4th of november 2013)
+
+american test pilot alan bean was born in wheeler , texas . he was selected by nasa in 1963 and is now retired .
+0.914: (american test pilot alan bean; was born in; wheeler)
+0.907: (he; was selected by; nasa)
+0.838: (he; was selected in; 1963)
+0.751: (american test pilot alan bean; was born; texas)
+0.595: (american test pilot alan bean; was born at; wheeler)
+0.594: (american test pilot alan bean; was born on; wheeler)
+
+the antares rocket was first launched on january 9th , 2014 from the mid - atlantic regional spaceport .
+0.9: (the antares rocket; was first launched on; january)
+0.552: (the antares rocket; was first launched in; january)
+
+asser levy public baths was constructed in 1904 and is located on avenue a , manhattan . it was added to the national register of historic places on 1980 - 04 - 23 with the reference number 80002709 .
+0.9: (asser levy public baths; is located on; avenue)
+0.9: (asser levy public baths; was constructed in; 1904)
+0.852: (it; was added 23 with the reference number 80002709 to; the national register of historic places)
+0.738: (it; was added 23 with the reference number 80002709 on; 1980)
+0.563: (asser levy public baths; is located in; avenue)
+0.525: (it; was added; 23)
+
+108 felicitas , with an oclc of 139705000 . 0 , has an escape velocity of 0 . 0473 kilometre per second and a periapsis of 283326000000 . 0 . it was first published on december 31 , 2006 .
+0.595: (it; was; first)
+0.575: (2006; be published on; december 31)
+0.487: (december 31; be published on; 2006)
+
+the battle of gettysburg was fought by aaron s . daggett who won the purple heart award .
+0.83: (the battle of gettysburg; was fought; daggett who won the purple heart award)
+0.819: (the battle of gettysburg; was fought daggett who won the purple heart award by; aaron)
+
+alfred n . phillips was born in the state of connecticut and served as a member of the u . s . house of representatives from the 4th district . he was preceded by albert e . austin .
+0.937: (phillips; was born in; the state of connecticut)
+0.862: (phillips; served as; a member of the u)
+0.775: (s; be house of; representatives)
+0.705: (he; was preceded; austin)
+0.672: (phillips; was born at; the state of connecticut)
+0.671: (phillips; was born on; the state of connecticut)
+0.657: (s; be house of representatives from; the 4th district)
+
+a894 va ; a904 vd ; is the former name of 1089 tama which has a time of 1202 . 846 days and was published on the 26th of november , 2005 .
+0.613: (former; is name of; 1089 tama which has a time of 1202)
+0.564: (a time of 1202; be has by; 1089 tama)
+
+the american locomotive company was the builder of the alco rs - 3 which has a length of 17068 . 8 ( millimetres ) and an engine called the v12 . it was built between may 1950 and august 1956 .
+0.913: (the american locomotive company; was the builder of; the alco rs)
+0.767: (an engine; called; the v12)
+0.738: (the american locomotive company; was; the builder of the alco rs)
+0.559: (a length of 17068; be has by; 3)
+0.284: (it; was built in; 8)
+
+abdulsalami abubakar is the vice president of the country . he was preceded by the leader of the nigerian navy , oladipo diya and is the successor to atiku abubaka . he retired on 1999 - 05 - 29 .
+0.913: (abdulsalami abubakar; is the vice president of; the country)
+0.879: (he; was preceded by; the leader of the nigerian navy)
+0.813: (abdulsalami abubakar; is the successor to; atiku abubaka)
+0.806: (he; retired on; 1999 - 05)
+0.783: (abdulsalami abubakar; is; the vice president of the country . he was preceded by the leader of the nigerian navy , oladipo diya and is the successor)
+0.433: (abdulsalami abubakar; is the successor of; atiku abubaka)
+
+abdulsalami abubakar is the leader of the nigerian army and the vice president . he was preceded by olusegun obasanjo and retired on 1999 - 05 - 29 .
+0.913: (abdulsalami abubakar; is the leader of; the nigerian army)
+0.842: (the leader of the nigerian army and the vice president . he was preceded by olusegun obasanjo; retired on; 1999 - 05)
+0.84: (he; was preceded by; olusegun obasanjo)
+0.757: (abdulsalami abubakar; is; the leader of the nigerian army and the vice president . he was preceded by olusegun obasanjo and retired on 1999 - 05 - 29)
+
+the battle of salem church is part of the american civil war and was commanded by robert e . lee . it was also fought by aaron s . daggett .
+0.913: (the battle of salem church; is part of; the american civil war)
+0.738: (it; was also fought daggett by; aaron)
+0.736: (the battle of salem church; is; part of the american civil war)
+0.726: (the battle of salem church; was commanded; lee)
+0.677: (the battle of salem church; was commanded lee by; robert e)
+0.654: (it; was also fought; daggett)
+0.544: (salem church; be the battle of; the american civil war)
+0.492: (part of the american civil war; be the battle of; salem church)
+
+1634 : the bavarian crisis was written by virginia demarce and eric flint and was followed by ring of fire ii which is written in english . it was preceded by the grantville gazette ii .
+0.922: (the bavarian crisis; was followed by; ring of fire ii)
+0.894: (the bavarian crisis; was written by; virginia demarce and eric flint)
+0.869: (it; was preceded by; the grantville gazette ii)
+
+tim brooke - taylor starred in bananaman which was broadcast by the bbc and last aired on 15 april 1986 .
+0.86: (taylor; be starred in; bananaman which was broadcast by the bbc and last aired on 15 april 1986)
+
+1101 clematis , formerly known as 1928 sj , has an oclc of 183309000 . 0 and a periapsis of 445895000000 . 0 . it was established on december 31 , 2006 .
+0.869: (it; was established on; december 31)
+0.848: (1101 clematis formerly known as 1928 sj; has an oclc of 183309000; 0 and a periapsis of 445895000000 . 0 . it was established on december 31 , 2006)
+0.803: (1101 clematis; be formerly known as; 1928 sj)
+0.729: (1101 clematis formerly known as 1928 sj; has a periapsis of 445895000000; an oclc of 183309000)
+0.57: (1101 clematis formerly known as 1928 sj; has 0 and a periapsis of 445895000000 . 0 . it was established on december 31 , 2006; an oclc of 183309000)
+0.487: (it; was established in; december 31)
+
+alhambra has a length of 63800 . 0 ( millimetres ) and a beam of 8 . 3 m . it was launched on the 31st of may , 1855 .
+0.902: (it; was launched on; the 31st of may , 1855)
+0.758: (alhambra; has; a length of 63800)
+0.559: (it; was launched in; the 31st of may , 1855)
+
+sergey belyavsky is the discoverer of the book " 1001 gaussia " which has the former name of " 1923 oaa907 xc " . the book was published on 27th june 2015 and has a length of 419113394 . 55312 kilometres .
+0.913: (sergey belyavsky; is the discoverer of; the book)
+0.894: (the book; was published on; 27th june 2015)
+0.736: (sergey belyavsky; is; the discoverer of the book)
+0.564: (the former name of " 1923 oaa907 xc " . the book was published on 27th june 2015 and has a length of 419113394 . 55312 kilometres; be has by; 1001 gaussia)
+0.548: (the book; was published in; 27th june 2015)
+0.346: (former; be name of; published on 27th june 2015 and has a length of 419113394 . 55312 kilometres)
+
+bananaman was first broadcast by stv on 3 october 1983 and starred jill shilling . it was created by steve bright .
+0.869: (it; was created by; steve bright)
+0.669: (bananaman; was starred; first broadcast)
+
+aleksander barkov jr . was born in tampere , finland on the 2nd of september 1995 . he was selected by the florida panthers .
+0.907: (aleksander barkov jr; was born on; 2nd of september 1995)
+0.9: (aleksander barkov jr; was born in; tampere)
+0.869: (he; was selected by; the florida panthers)
+0.553: (aleksander barkov jr; was born at; tampere)
+
+the alksey chirikov icebreaker was built by arctech helsinki shipyard in the country of finland . the leader of the country is juha sipila and the language spoken is the sami languages .
+0.929: (the alksey chirikov icebreaker; was built by; arctech helsinki shipyard)
+0.907: (the alksey chirikov icebreaker; was built in; the country of finland)
+0.783: (the alksey chirikov icebreaker; was built of; finland)
+0.691: (juha sipila and the language spoken; is; the sami languages)
+0.639: (the leader of the country; is; juha sipila and the language spoken)
+0.384: (juha sipila and the language spoken; be the leader of; the country)
+
+a fortress of grey ice was written by j . v . jones and published in print .
+0.896: (a fortress of grey ice; be published in; print)
+0.825: (a fortress of grey ice; was written jones by; j)
+0.825: (a fortress of grey ice; was written v by; j)
+0.579: (a fortress of grey ice; was written v; jones)
+0.574: (a fortress of grey ice; was written jones; v)
+
+the novel into battle was written by australians and was preceded by aenir and castle . it was followed by the violet keystone .
+0.9: (the novel; was preceded by; aenir and castle)
+0.9: (the novel; was written by; australians)
+0.869: (it; was followed by; the violet keystone)
+
+1000 piazzia , with an elevation of 352497000000 . 0 , has an orbit of 494160 . 0 and an escape velocity of 0 . 0252 kilometre per second . it was started on the 27th of june 2015 .
+0.834: (1000 piazzia , with an elevation of 352497000000 . 0; has an orbit of 494160; 0 and an escape velocity of 0)
+0.818: (it; 1000 piazzia , an elevation 352497000000 . 0 , has an orbit 494160 . 0 an escape velocity 0 . 0252 kilometre second was started on; the 27th of june 2015)
+0.729: (1000 piazzia , with an elevation of 352497000000 . 0; has an escape velocity of 0; an orbit of 494160)
+0.57: (1000 piazzia , with an elevation of 352497000000 . 0; has 0 and an escape velocity of 0 . 0252 kilometre per second; an orbit of 494160)
+0.443: (it; 1000 piazzia , an elevation 352497000000 . 0 , has an orbit 494160 . 0 an escape velocity 0 . 0252 kilometre second was started in; the 27th of june 2015)
+
+the manufacturer of the audi a1 is called " audi e - tron " . the company was founded by august horch and has a subsidiary called " ducati " .
+0.894: (the company; was founded by; august horch)
+0.717: (the manufacturer of the audi a1; is called; audi e)
+
+american william anders was born in british hong kong on october 17th , 1933 . he served as a fighter pilot and was a crew member of apollo 8 . he retired on september 1st , 1969 .
+0.929: (american; was born in; british hong kong)[enabler=on october 17th , 1933 . he served as a fighter pilot and was a crew member of apollo 8 . he retired on september 1st , 1969]
+0.861: (he; was a crew member of; apollo 8)
+0.807: (october; served as; a fighter pilot)
+0.806: (he; served as; a fighter pilot)
+0.806: (he; retired on; september 1st)
+0.758: (october; was a crew member of; apollo 8)
+0.645: (american; was born at; british hong kong)[enabler=on october 17th , 1933 . he served as a fighter pilot and was a crew member of apollo 8 . he retired on september 1st , 1969]
+0.644: (american; was born on; british hong kong)[enabler=on october 17th , 1933 . he served as a fighter pilot and was a crew member of apollo 8 . he retired on september 1st , 1969]
+0.623: (he; was; a crew member of apollo 8)
+0.455: (october; was; a crew member of apollo 8)
+
+andrew white is a musician in the genre of alternative rock , which is a variation of new wave and is also known as nu metal .
+0.7: (a musician; is also known as; nu metal)
+0.39: (a variation of new wave; be the genre of; alternative rock)
+
+edwin e . aldrin jr . , also known as buzz aldrin , was born on 20 january 1930 in glen ridge , new jersey . he graduated from mit in 1963 with a sc . d . he was selected by nasa in 1963 and served as a fighter pilot and a crew member on apollo 11 .
+0.907: (he; was selected by; nasa)
+0.894: (aldrin jr also known as buzz aldrin; was born new jersey on; 20 january 1930)
+0.883: (he; graduated from; mit)
+0.857: (he; graduated in; 1963)
+0.838: (he; was selected in; 1963)
+0.804: (he; served as; a fighter pilot and a crew member)
+0.801: (he; graduated with; a sc)
+0.793: (aldrin jr; be also known as; buzz aldrin)
+0.753: (aldrin jr also known as buzz aldrin; was born; new jersey)
+0.609: (aldrin jr also known as buzz aldrin; was born new jersey in; 20 january 1930)
+
+albany , georgia is part of the united states where english is spoken and native americans are one of the ethnic groups .
+0.967: (georgia; albany , georgia is part of; the united states where english is spoken and native americans are one of the ethnic groups)
+
+anaheim , california has a total area of 131 . 6 square kilometres and a utc offset of - 7 . the area code is 714 .
+0.758: (anaheim; has; a total area of 131)
+0.747: (california; has; a total area of 131)
+0.704: (the area code; is; 714)
+
+american , abraham a . ribicoff was born in the state of connecticut . he was a member of the democratic party and served as the governor of the state . he died in the united states .
+0.88: (a . ribicoff; was born in; the state of connecticut)
+0.861: (he; was a member of; the democratic party)
+0.853: (he; served as; the governor of the state)
+0.84: (he; died in; the united states)
+0.648: (he; was; a member of the democratic party he died in the united states)
+0.54: (he; died; the united states)
+0.503: (a . ribicoff; was born at; the state of connecticut)
+0.502: (a . ribicoff; was born on; the state of connecticut)
+0.147: (he; be the governor of; the state)
+
+the acharya institute of technology is located in soldevanahalli , acharya dr . sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 , karnataka , india . it has 700 postgraduate students and is affiliated with visvesvaraya technological university .
+0.9: (the acharya institute of technology; is located in; soldevanahalli)
+0.743: (it; is affiliated with; visvesvaraya technological university)
+0.569: (it; has; 700 postgraduate students)
+0.553: (the acharya institute of technology; is located at; soldevanahalli)
+0.552: (the acharya institute of technology; is located on; soldevanahalli)
+
+adam holloway was born in kent and graduated from magdalene college , cambridge . he was a member of parliament for gravesham and was in the grenadier guards . he retired on 05 / 05 / 2005 .
+0.901: (he; was a member of; parliament)
+0.898: (adam holloway; was born in; kent)
+0.835: (he; was a member of parliament for; gravesham)
+0.806: (he; retired on; 05 /)
+0.791: (adam holloway; graduated from; magdalene college)
+0.708: (he; was; a member of parliament)
+0.655: (adam holloway; was in; the grenadier guards)
+0.548: (adam holloway; was born at; kent)
+0.547: (adam holloway; was born on; kent)
+
+american buzz aldrin was born in glen ridge , new jersey on 20 january 1930 . he graduated from mit with a sc . d in 1963 . he was a crew member of apollo 11 and is now retired .
+0.861: (he; was a crew member of; apollo 11)
+0.857: (he; graduated from; mit)
+0.828: (american buzz aldrin; was born new jersey on 20 january 1930 in; glen ridge)
+0.79: (american buzz aldrin; was born; new jersey)
+0.623: (he; was; a crew member of apollo 11)
+0.542: (american buzz aldrin; be new jersey on; 20 january 1930)
+0.538: (new jersey; was born on; 20 january 1930)
+0.461: (american buzz aldrin; was born new jersey on 20 january 1930 at; glen ridge)
+0.46: (american buzz aldrin; was born new jersey on 20 january 1930 on; glen ridge)
+
+albuquerque , new mexico has a population density of 1142 . 3 inhabitants per square kilometre and an area of land of 490 . 2 square kilometres . the area codes are 505 and 575 .
+0.833: (albuquerque; has a population density of 1142; 3 inhabitants per square kilometre and an area of land of 490 . 2 square kilometres . the area codes are 505 and 575)
+0.825: (new mexico; has a population density of 1142; 3 inhabitants per square kilometre and an area of land of 490 . 2 square kilometres . the area codes are 505 and 575)
+0.681: (albuquerque; has an area of land of 490; a population density of 1142)
+0.668: (new mexico; has an area of land of 490; a population density of 1142)
+0.512: (albuquerque; has 3 inhabitants per square kilometre and an area of land of 490 . 2 square kilometres . the area codes are 505 and 575; a population density of 1142)
+0.497: (new mexico; has 3 inhabitants per square kilometre and an area of land of 490 . 2 square kilometres . the area codes are 505 and 575; a population density of 1142)
+
+alberto teisaire was born in mendoza , argentina . he was a leader of the labour party and served as the president of the country . his predecessor was isaac rojas .
+0.861: (he; was a leader of; the labour party)
+0.853: (he; served as; the president of the country)
+0.77: (his predecessor; was; isaac rojas)
+0.147: (he; be the president of; the country)
+
+joko widodo is the leader of indonesia where the dish batagor is found . it is a variation of siomay and shumai and contains peanut sauce .
+0.908: (joko widodo; is the leader of; indonesia where the dish batagor is found)
+0.861: (it; is a variation of; siomay and shumai)
+0.757: (joko widodo; is; the leader of indonesia it is a variation of siomay and shumai and contains peanut sauce)
+0.678: (it; contains; peanut sauce)
+0.62: (it; is; a variation of siomay)
+0.614: (peanut sauce; be contains by; the leader of indonesia it is a variation of siomay and shumai)
+0.564: (the dish batagor; is found in; indonesia)
+
+the alternative rock musician andrew white , who was born in 2003 , is a member of the kaiser chiefs and the marry banilow band .
+No extractions found.
+
+the leader of the netherlands is mark rutte . the country is the home of agnes kant , who is a member of the socialist party and worked for the house of representatives .
+0.909: (the country; is the home of; agnes kant)
+0.863: (the leader of the netherlands; worked for; the house of representatives)
+0.724: (the country; is; the home of agnes kant)
+0.667: (the leader of the netherlands; is; mark rutte)
+0.538: (the country; is the home to; agnes kant)
+0.492: (mark rutte; be the leader of; the netherlands)
+
+the acharya institute of technology in bangalore has 700 postgraduate students and is affiliated with visvesvaraya technological university .
+0.831: (the acharya institute of technology; is affiliated with; visvesvaraya technological university)
+0.692: (the acharya institute of technology; has; 700 postgraduate students)
+
+200 public square has 45 floors and is located in the united states .
+0.831: (200 public square; is located in; the united states)
+0.692: (200 public square; has; 45 floors)
+
+the acharya institute of technology in bangalore , india is affiliated with visvesvaraya technological university . it has 700 postgraduate students and its president is b . m . reddy .
+0.894: (india; is affiliated with; visvesvaraya technological university)
+0.756: (700 postgraduate students and its president is b; be has m by; the acharya institute of technology india is affiliated with visvesvaraya technological university)
+0.621: (it; has 700 postgraduate students and its president; m)
+0.575: (m; be has 700 postgraduate students and its president by; the acharya institute of technology india is affiliated with visvesvaraya technological university)
+0.483: (m; be has its president is b by; the acharya institute of technology india is affiliated with visvesvaraya technological university)
+0.468: (it; has its president is b; m)
+0.385: (it; has m; 700 postgraduate students and its president is b)
+
+auburn , washington , united states is part of pierce county and king county . it has a population density of 914 . 8 inhabitants per square kilometre and an area of 77 . 41 square kilometres .
+0.746: (it; has a population density of 914; 8 inhabitants per square kilometre and an area of 77)
+0.705: (part of pierce county; is in; auburn)
+0.612: (it; has an area of 77; a population density of 914)
+0.566: (part of pierce county; is washington; united states)
+0.437: (it; has 8 inhabitants per square kilometre and an area of 77 . 41 square kilometres; a population density of 914)
+
+anderson is part of fall creek township , madison county , indiana , united states . it has a population density of 523 . 9 inhabitants per square kilometre and an area of 107 . 43 square kilometres .
+0.93: (anderson; is part of; fall creek township)
+0.797: (anderson; is; part of fall creek township it has a population density of 523 . 9 inhabitants per square kilometre and an area of 107 . 43 square kilometres)
+0.746: (it; has a population density of 523; 9 inhabitants per square kilometre and an area of 107)
+0.612: (it; has an area of 107; a population density of 523)
+0.533: (9 inhabitants per square kilometre and an area of 107; be has a population density of 523 by; part of fall creek township)
+0.441: (a population density of 523; be has an area of 107 by; part of fall creek township)
+0.437: (it; has 9 inhabitants per square kilometre and an area of 107 . 43 square kilometres; a population density of 523)
+0.279: (a population density of 523; be has 9 inhabitants per square kilometre and an area of 107 . 43 square kilometres by; part of fall creek township)
+
+the amc matador ( also known as american motors matador ) is a mid - size car made in thames , new zealand . it has the body style of a station wagon and the amc v8 engine .
+0.752: (a mid - size car; be made in; thames)
+0.647: (it; has; the body style of a station wagon)
+
+abradab was born in poland on 12 november 1978 in the city of katowice . he is a member of the kaliber 44 band and the magik rapper .
+0.929: (abradab; was born in; poland)
+0.911: (abradab; was born on; 12 november 1978)
+0.861: (he; is a member of; the kaliber 44 band)
+0.673: (he; is; a member of the kaliber 44 band and the magik rapper)
+0.645: (abradab; was born at; poland)
+
+albert b . white was born in cleveland and died in west virginia on 1904 - 03 - 04 . he was the governor of west virginia and his spouse was agnes ward white . william m . o . dawson was his predecessor .
+0.894: (white; was born in; cleveland)
+0.864: (the governor of west virginia and his spouse; was agnes ward white william; m)
+0.861: (he; was the governor of; west virginia)
+0.854: (the governor of west virginia and his spouse; was agnes ward white o; his predecessor)
+0.839: (white; died in; west virginia)
+0.738: (the governor of west virginia and his spouse; was; agnes ward white)
+0.735: (white; died on; 1904)
+0.674: (white; was born albert; b)
+0.634: (dawson; was; his predecessor)
+0.558: (he; was; the governor of west virginia and his spouse)
+0.538: (white; was born at; cleveland)
+0.537: (white; was born on; cleveland)
+
+the average speed of the 66391 1999 kw4 is 37 . 16 kilometre per second and it has a density of 2 . 0 gram per cubiccentimetres and a length of 162164091 . 8388 kilometres .
+0.667: (the average speed of the 66391 1999 kw4; is; 37)
+0.647: (it; has; a density of 2)
+0.602: (it; be 0 gram per; cubiccentimetres)
+0.492: (37; be the average speed of; the 66391 1999 kw4)
+0.483: (it; be a length of; 162164091)
+0.425: (it; be 16 kilometre per; second)
+
+the 320 south boston building has 22 floors and was designed by the american george winkler .
+0.831: (the 320 south boston building; was designed by; the american george winkler)
+0.692: (the 320 south boston building; has; 22 floors)
+
+andra singer was born in 1986 in the town of campia turzii . he is a member of the dance - pop genre and performed as a tv judge .
+0.929: (andra singer; was born in; 1986)
+0.926: (andra singer; was born in; the town of campia turzii)
+0.861: (he; is a member of; the dance)
+0.783: (andra singer; was born of; campia turzii)
+0.706: (andra singer; performed as; a tv judge)
+0.645: (andra singer; was born at; 1986)
+0.644: (andra singer; was born on; 1986)
+0.632: (andra singer; was born at; the town of campia turzii)
+0.632: (andra singer; was born on; the town of campia turzii)
+0.62: (he; is; a member of the dance)
+
+the school of business and social sciences at the aarhus university in aarus , denmark was established in 1928 . it has 737 academic staff and 16 , 000 students . denmark ' s leader is lars lokke rasmussen .
+0.911: (leader; denmark ' s leader is lars lokke; rasmussen)
+0.703: (the school of business and social sciences at the aarhus university in aarus , denmark; was established 000 students . denmark ' s leader is lars lokke rasmussen in; 1928)
+0.617: (leader; is lars of; denmark)
+0.569: (it; has; 737 academic staff and 16)
+0.563: (the school of business and social sciences at the aarhus university in aarus , denmark; was established; 000 students)
+
+james craig watson was born in canada and died in madison , wisconsin . he attended the university of michigan and was the discoverer of 103 hera which has a length of 371240000 . 0 kilometres .
+0.9: (james craig watson; was born in; canada)
+0.791: (james craig watson; died in; madison)
+0.74: (he; attended; the university of michigan)
+0.692: (the discoverer of 103 hera; attended; the university of michigan)
+0.567: (he; be the discoverer of; 103 hera which has a length of 371240000)
+0.564: (a length of 371240000; be has by; 103 hera)
+0.553: (james craig watson; was born at; canada)
+0.552: (james craig watson; was born on; canada)
+
+10 hygiea has a surface area of 837080 . 744 square kilometres and a length of 3453951582 . 33968 kilometres . its temperature is 164 . 0 kelvins .
+0.758: (10 hygiea; has; a surface area of 837080)[enabler=. 744 square kilometres and a length of 3453951582 . 33968 kilometres . its temperature is 164 . 0 kelvins]
+0.724: (its temperature; is; 164)
+
+the german born walter baade was the discoverer of 1036 ganymed . he was a doctoral student at the university of gottingen and died in the city .
+0.908: (the german born walter baade was the discoverer of 1036; ganymed . he was a doctoral student at; the university of gottingen)
+0.903: (born walter baade; was the discoverer of; 1036)
+0.837: (the german born walter baade was the discoverer of 1036; ganymed; a doctoral student)
+0.819: (the german born walter baade was the discoverer of 1036; died in; the city)
+0.795: (a doctoral student; be ganymed at; the university of gottingen)
+0.714: (born walter baade; was; the discoverer of 1036)
+0.635: (he; was; a doctoral student)
+0.502: (the german born walter baade was the discoverer of 1036; died; the city)
+
+the accademia di architettura di mendrisio was established in 1996 in mendriso , switzerland . its dean is mario botta and it has 100 academic staff and 600 students . the country ' s leader is the federal chancellor of switzerland .
+0.929: (the accademia di architettura di mendrisio; was established in; 1996)
+0.9: (the accademia di architettura di mendrisio; was established in; mendriso)
+0.884: (its dean; has 100 academic staff; the country ' s leader is the federal chancellor of switzerland)
+0.803: (its dean; has 600 students; the country ' s leader is the federal chancellor of switzerland)
+0.772: (it; has 100 academic staff; the country ' s leader is the federal chancellor of switzerland)
+0.724: (its dean; is; mario botta)
+0.645: (it; has 600 students; the country ' s leader is the federal chancellor of switzerland)
+0.497: (its dean; has the country ' s leader is the federal chancellor of switzerland; 100 academic staff and 600 students)
+0.364: (it; is; mario botta)
+0.306: (it; has the country ' s leader is the federal chancellor of switzerland; 100 academic staff and 600 students)
+
+adisham hall , located in sri lanka , has the architectural style of tudor and jacobean and was completed in 1931 .
+0.803: (adisham hall; be located in; sri lanka)
+0.799: (adisham hall located in sri lanka; has; the architectural style of tudor)
+0.758: (adisham hall located in sri lanka; was completed in; 1931)
+0.411: (architectural; be style of; tudor and jacobean)
+
+batchoy is eaten in the philippines where philippine spanish is spoken and the ilocano and zamboangans are ethnic groups .
+0.912: (batchoy; is eaten in; the philippines where philippine spanish is spoken and the ilocano and zamboangans)
+
+allen forrest was born in fort campbell , ky in 1981 . he is a member of the hip hop genre and was a singer in dothan , al .
+0.9: (allen forrest; was born in; fort campbell)
+0.861: (he; is a member of; the hip hop genre)
+0.62: (he; is; a member of the hip hop genre)
+0.553: (allen forrest; was born at; fort campbell)
+0.552: (allen forrest; was born on; fort campbell)
+
+airey neave was fought in world war ii and was started on 04 / 04 / 1974 and ended on 30 / 03 / 1979 .
+0.9: (airey neave; was fought in; world war ii)
+0.9: (airey neave; was started on; 04 / 04 / 1974)
+0.706: (airey neave; ended on; 30 / 03 / 1979)
+0.552: (airey neave; was started in; 04 / 04 / 1974)
+
+the main ingredients of binignit are banana and it comes from the philippines .
+0.854: (the main ingredients of binignit; comes from; the philippines)
+0.774: (it; comes from; the philippines)
+0.492: (banana; be the main ingredients of; binignit)
+0.242: (banana; be the main ingredients in; binignit)
+
+atlanta is part of dekalb county , georgia and has a population density of 1299 . 0 inhabitants per square kilometre . it has an area of land of 344 . 9 square kilometres and a total area of 347 . 1 square kilometres . the area code is 404 .
+0.707: (it; has an area of land of 344 in; 9 square kilometres and a total area of 347)
+0.704: (the area code; is; 404)
+0.681: (georgia; is part of; dekalb county)
+0.647: (it; has; an area of land of 344)
+0.475: (an area of land of 344; be has by; part of dekalb county)
+
+james craig watson was born in canada and died in madison , wisconsin . he was the discoverer of 103 hera and died from peritonitis .
+0.9: (james craig watson; was born in; canada)
+0.861: (he; was the discoverer of; 103 hera)
+0.791: (james craig watson; died in; madison)
+0.706: (james craig watson; died from; peritonitis)
+0.623: (he; was; the discoverer of 103 hera)
+0.553: (james craig watson; was born at; canada)
+0.552: (james craig watson; was born on; canada)
+
+the birth date of aleksander barkov jr . is 1995 - 09 - 02 and he plays for the florida panthers .
+0.774: (he; plays for; the florida panthers)
+0.667: (the birth date of aleksander barkov jr; is; 1995)
+0.492: (1995; be the birth date of; aleksander barkov jr)
+
+avocado is an ingredient in bandeja paisa which is part of columbian cuisine and found in the paisa region .
+0.896: (avocado; is an ingredient in; bandeja paisa)
+0.819: (avocado; found in; the paisa region)
+0.746: (avocado; is; an ingredient)
+0.608: (avocado; is an ingredient of; bandeja paisa)
+
+alan shepard was born in new hampshire on november 18th , 1923 . he graduated from nwc in 1957 with an m . a . he was a test pilot and was selected by nasa in 1959 . he died in california .
+0.869: (alan shepard; was selected by; nasa)
+0.857: (he; graduated from; nwc)
+0.84: (he; died in; california)
+0.826: (he; graduated in; 1957)
+0.781: (alan shepard; was born a . he was a test pilot in; new hampshire)
+0.778: (alan shepard; was selected in; 1959)
+0.76: (he; graduated with; an m)
+0.563: (alan shepard; was born; a test pilot)
+0.542: (he; was; a test pilot)
+0.54: (he; died; california)
+0.387: (alan shepard; was born a . he was a test pilot at; new hampshire)
+0.386: (alan shepard; was born a . he was a test pilot on; new hampshire)
+
+a900 ga is the former name of 10 hygiea which was found on the 27th of june 2015 . it has a length of 557 days and a periapsis of 416136000000 . 0 .
+0.944: (a900 ga; is the former name of; 10 hygiea which was found on the 27th of june 2015)
+0.674: (it; has a length of 557 days; 0)
+0.613: (former; is name of; 10 hygiea which was found on the 27th of june 2015)
+0.61: (a900 ga; is; the former name of 10 hygiea it has a length of 557 days and a periapsis of 416136000000 . 0)
+0.555: (it; has 0; a length of 557 days and a periapsis of 416136000000)
+0.526: (it; has a periapsis of 416136000000; 0)
+0.385: (a length of 557 days and a periapsis of 416136000000; be has 0 by; the former name of 10 hygiea)
+0.288: (0; be has a length of 557 days by; the former name of 10 hygiea)
+0.218: (0; be has a periapsis of 416136000000 by; the former name of 10 hygiea)
+
+the doctoral student of halton arp , walter baade , died in west germany . he was a student at the university of gottingen and was the discoverer of 1036 ganymed .
+0.899: (he; was a student at; the university of gottingen)
+0.86: (walter baade; died; a student)
+0.749: (the discoverer of 1036; died; a student)
+0.735: (walter baade; was the discoverer of; 1036)
+0.691: (walter baade; died . he was a student at the university of gottingen in; west germany)
+0.688: (he; was; a student)
+0.633: (a student; be died in; west germany)
+0.523: (the discoverer of 1036; died . he was a student at the university of gottingen in; west germany)
+0.333: (walter baade; died . he was a student at the university of gottingen; west germany)
+0.196: (the discoverer of 1036; died . he was a student at the university of gottingen; west germany)
+
+10 hygiea has an average speed of 16 . 76 kilometre per second and an orbital period of 5 . 57 days . it has a length of 3453951582 . 33968 kilometres .
+0.816: (10 hygiea; has an average speed of 16; 76 kilometre per second and an orbital period of 5 . 57 days . it has a length of 3453951582 . 33968 kilometres)
+0.681: (10 hygiea; has an orbital period of 5; an average speed of 16)
+0.678: (it; has a length of 3453951582; 33968 kilometres)
+0.643: (33968 kilometres; be has a length of 3453951582 by; 76 kilometre per second and an orbital period of 5)
+0.555: (it; has 33968 kilometres; a length of 3453951582)
+0.554: (a length of 3453951582; be has 33968 kilometres by; 76 kilometre per second and an orbital period of 5)
+0.512: (10 hygiea; has 76 kilometre per second and an orbital period of 5 . 57 days . it has a length of 3453951582 . 33968 kilometres; an average speed of 16)
+
+atlanta is in the united states where asian americans are one of the ethnic groups and the capital is washington d . c .
+0.882: (atlanta; is in; the united states where asian americans are one of the ethnic groups and the capital)
+0.606: (c; is in; the united states where asian americans are one of the ethnic groups and the capital)
+
+elliot see was an american who was born in dallas . he attended the university of texas at austin and died in st . louis .
+0.806: (he; attended the university of texas at; austin)
+0.803: (he; died in; st)
+0.721: (he; attended the university of texas; louis)
+0.692: (he; attended louis; the university of texas)
+0.691: (he; attended louis at; austin)
+0.659: (the university of texas; be attended louis at; austin)
+0.577: (louis; be attended the university of texas at; austin)
+0.477: (he; died; st)
+
+alfred n . phillips was born in darien , connecticut and is a member of the democratic party . he was the mayor of stamford , and his successor was albert e . austin .
+0.914: (phillips; was born in; darien)
+0.887: (he; was the mayor of; stamford)
+0.676: (he; was; the mayor of stamford)
+0.596: (phillips; was born at; darien)
+0.595: (phillips; was born on; darien)
+0.542: (darien; was born in; connecticut)
+
+andrew white is a rock musician who is part of the genre of nu metal . he is also a member of the b - unique records and is attached to the company polydor records which is located in london .
+0.861: (a rock musician; is part of; the genre of nu metal)
+0.858: (he; is also a member of; the b)
+0.763: (andrew white; is; a rock musician who is part of the genre of nu metal)
+0.674: (he; is also; a member of the b)
+0.663: (andrew white; is attached to; the company polydor records)
+
+william anders was born in british hong kong on october 17th , 1933 . he served as a fighter pilot and was selected by nasa in 1963 . he was a crew member of apollo 8 and spent 8820 minutes in space . he retired on september 1st , 1969 .
+0.861: (he; was a crew member of; apollo 8)
+0.807: (october; served as; a fighter pilot)
+0.806: (he; served as; a fighter pilot)
+0.806: (he; retired on; september 1st)
+0.771: (he; was selected by; nasa)
+0.736: (8820 minutes; be spent in; space)
+0.64: (he; was selected in; 1963)
+0.63: (october; was selected by; nasa)
+0.623: (he; was; a crew member of apollo 8)
+0.474: (october; was selected in; 1963)
+
+bionico is a food found in mexico where the currency is the peso and the leader is silvano aureoles conejo .
+0.802: (bionico; is; a food found in mexico where the currency is the peso and the leader is silvano aureoles conejo)
+
+native americans are one of the ethnic groups in the united states where the american , abraham a . ribicoff , was born in new britain , connecticut . he is now a us national and has a wife called casey .
+0.843: (one of the ethnic groups; was born in; new britain)
+0.739: (a wife; has called; casey)
+0.637: (he; has called; casey)
+0.637: (us; has called; casey)
+0.603: (one of the ethnic groups; was born; connecticut)
+0.502: (he; is now has; national)
+0.502: (us; is now has; national)
+0.442: (a wife; is now has; national)
+0.426: (one of the ethnic groups; was born at; new britain)
+0.425: (one of the ethnic groups; was born on; new britain)
+0.379: (native americans; be the ethnic groups in; the united states where the american)
+0.363: (ethnic; be groups in; the united states where the american)
+
+the assembly of the acura tlx is in marysville , ohio . it is a mid - size car with a front - wheel drive / all - wheel - drive system and an engine called the honda k .
+0.881: (it; is a mid - size car with; a front - wheel drive)
+0.822: (the assembly of the acura tlx; is in; marysville)
+0.806: (wheel - drive system and an engine; called; the honda k)
+0.632: (it; is; a mid - size car)
+
+andra is a singer in the genre of " rhythm and blues " . the genre is a variation of both " funk " and " disco " .
+0.923: (andra; is a singer in; the genre of " rhythm)
+0.907: (the genre; is a variation of; funk)
+0.847: (the genre; is a singer in; the genre of " rhythm)
+0.839: (andra; is a variation of; funk)
+0.763: (andra; is; a singer in the genre of " rhythm and blues " . the genre is a variation of both " funk)
+
+the body style of the audi a1 is " hatchback " and it is made in brussels , belgium . it has a 1 . 2 - litre engine and a 4 - wheel - drive layout .
+0.84: (it; is made in; brussels)
+0.569: (a 1; be has by; the body style of the audi a1 is " hatchback)
+0.569: (it; has; a 1)
+0.419: (it; is made on; brussels)
+
+alfred zitarrosa was born in uruguay and is a member of the candombe genre . he is also a singer and has a record label called rca records .
+0.9: (alfred zitarrosa; was born in; uruguay)
+0.658: (he; has; a record label called rca records)
+0.597: (he; is also; a singer)
+0.553: (alfred zitarrosa; was born at; uruguay)
+0.552: (alfred zitarrosa; was born on; uruguay)
+
+the 19255 1994 vk8 has an escape velocity of 0 . 0925 kilometre per second and a length of 6603633000 . 0 kilometres .
+0.758: (the 19255 1994 vk8; has; an escape velocity of 0 . 0925 kilometre per second and a length of 6603633000)
+
+elliot see graduated from the university of texas at austin and died in st . louis where francis g slay is the leader .
+0.829: (elliot; see graduated louis where francis g slay is the leader from; the university of texas)
+0.704: (francis g slay; is; the leader)
+0.652: (elliot; see graduated; louis where francis g slay is the leader)
+0.651: (elliot; died in; st)
+
+bhajji originates from india where the currency is the indian rupee and the leader is sumitra mahajan .
+0.668: (the leader; be bhajji originates from; india where the currency is the indian rupee)
+
+the guiana space centre is the location of the ariane 5 which was designed by airbus defence and space and has a length of 5 . 4 metres . it was first flight on 11th august 2005 and its last flight was on 18th november 2009 .
+0.944: (the guiana space centre; is the location of; the ariane 5 which was designed by airbus defence and space)
+0.922: (its last flight; was on; 18th november 2009)
+0.847: (its last flight; was first flight on; 11th august 2005)
+0.846: (its last flight; is the location of; the ariane 5 which was designed by airbus defence and space)
+0.835: (it; was first flight on; 11th august 2005)
+0.819: (the guiana space centre; was on; 18th november 2009)
+0.813: (the guiana space centre; was first flight on; 11th august 2005)
+0.785: (the guiana space centre; was; the location of the ariane 5 which was designed by airbus defence and space and has a length of 5 . 4 metres . it was first flight)
+0.783: (the guiana space centre; is; the location of the ariane 5 which was designed by airbus defence and space and has a length of 5 . 4 metres . it was first flight)
+0.726: (it; was on; 18th november 2009)
+0.71: (it; is the location of; the ariane 5 which was designed by airbus defence and space)
+0.701: (its last flight; was; the location of the ariane 5 which was designed by airbus defence and space and has a length of 5 . 4 metres . it was first flight)
+0.699: (its last flight; is; the location of the ariane 5 which was designed by airbus defence and space and has a length of 5 . 4 metres . it was first flight)
+0.589: (the guiana space centre; has a length of 5; 4 metres)
+0.518: (the guiana space centre; has 4 metres; a length of 5)
+0.479: (its last flight; has a length of 5; 4 metres)
+0.449: (it; has a length of 5; 4 metres)
+0.408: (its last flight; has 4 metres; a length of 5)
+0.379: (it; has 4 metres; a length of 5)
+
+al anderson is the leader of the band , nrbq . the band ' s genre is rock , which is a variation of country music . they also play bhangra and use the guitar as an instrument .
+0.913: (al anderson; is the leader of; the band)
+0.875: (they; use the guitar as; an instrument)
+0.846: (they; use; the guitar)
+0.778: (the guitar; be use as; an instrument)
+0.774: (they; also play; bhangra)
+0.773: (nrbq . the band ' s genre is rock; is a variation of; country music)
+0.61: (al anderson; is; the leader of the band they also play bhangra and use the guitar as an instrument)
+
+the parent company of airbus defence and space , which is the manufacturer of ariane 5 , is the airbus group .
+0.779: (airbus defence and space; is the manufacturer of; ariane 5)
+0.663: (the airbus group; be the parent company of; airbus defence and space , which is the manufacturer of ariane 5)
+0.616: (the parent company of airbus defence; is; the airbus group)
+
+the ground of united petrotrin f . c . is in palo seco and they have had the player , akeem adams , who played for w connection fc .
+0.903: (they; have had; the player who played for w connection fc)
+0.776: (the player; played for; w connection fc)
+0.615: (they; is have in; palo seco)
+0.289: (c; be the ground of; united petrotrin f)
+
+albert jennings fountain was born in new york city and died in dona ana county , new mexico . he fought in the american civil war , which was commanded by jefferson davis .
+0.894: (he; fought in; the american civil war which was commanded by jefferson davis)
+
+douglas r . oberhelman is the key person at caterpillar , which is the parent company of aluna .
+0.943: (oberhelman; is the key person at; caterpillar which is the parent company of aluna)
+0.778: (caterpillar; is the parent company of; aluna)
+0.735: (oberhelman; is; the key person)
+
+the band , suburban legends , is affiliated with the band , the kids imagine nation . their leader is brian robertson , trombonist , and they play in the genre of " ska punk " , which is a variation of " punk rock " .
+0.919: (the band; is affiliated with; the band)
+0.914: (suburban legends; is affiliated with; the band)
+0.899: (they; play in; the genre of " ska punk)
+0.849: (ska punk; is a variation of; punk rock)
+0.773: (the kids; imagine; nation)
+0.768: (their leader; is; brian robertson)
+0.763: (the kids; play in; the genre of " ska punk)
+0.538: (they; imagine; nation)
+
+the us national , aaron turner , was born in 1995 . he is a member of the black metal band and the odd man gloom . he also plays for the band , the lotus eaters .
+0.887: (he; is a member of; the black metal band and the odd man gloom)
+0.801: (us national; was born the lotus eaters in; 1995)
+0.775: (he; also plays for; the band)
+0.729: (us national; was born; the lotus eaters)
+0.673: (he; is; a member of the black metal band)
+0.416: (us national; was born the lotus eaters at; 1995)
+0.415: (us national; was born the lotus eaters on; 1995)
+
+the secretary of state of vermont is alvah sabin . he is from the region of the 3rd congressional district in the state of vermont , where the largest city is burlington .
+0.848: (he; is from; the region of the 3rd congressional district)
+0.704: (the largest city; is; burlington)
+0.698: (the secretary of state of vermont; is; alvah sabin he is from the region of the 3rd congressional district in the state of vermont ,)
+0.652: (alvah sabin he is from the region of the 3rd congressional district in the state of vermont ,; be the secretary of; state of vermont)
+
+1089 tama , with an oclc of 1202 . 846 days , has an escape velocity of 0 . 0068 kilometre per second . it was inhabited on the 26th of november , 2005 , and has the apoapsis of 373513000 . 0 kilometres .
+0.902: (it; was inhabited on; the 26th of november)
+0.696: (1089 tama; has an escape velocity of 0; 0 kilometres)
+0.666: (1089 tama; has; the apoapsis of 373513000)
+0.576: (1089 tama; has 0 kilometres; an escape velocity of 0)
+
+andrew white , a member of the band marry banilow , is the creator of the alternative rock genre , which is a variation of the genre of nu metal .
+0.861: (the alternative rock genre; is a variation of; the genre of nu metal)
+
+jwaydan moyine and christian burns are both associated with andrew rayel , who is a member of the trance music genre , which is influenced by house music .
+No extractions found.
+
+the black metal genre is a variation of the death metal genre . it is also where the band , twilight , and the alternative rock band , old man gloom , are from . one of the members of the band is aaron turner , who plays the electric guitar .
+0.93: (the black metal genre; is a variation of; the death metal genre)
+0.829: (one of the members of the band; is; aaron turner who plays the electric guitar)
+0.811: (the black metal genre; is; a variation of the death metal genre it is also where the band , twilight , and the alternative rock band , old man gloom , are from . one of the members of the band is aaron turner ,)
+0.62: (the electric guitar; be plays by; aaron turner)
+
+the socialist republic of serbia is the birthplace of the singer , aleksandra kovac , who was born in 1972 . she is a member of the pop music genre , which is a variation of the genre of disco .
+0.936: (the socialist republic of serbia; is the birthplace of; the singer who was born in 1972)
+0.926: (she; is a member of; the pop music genre which is a variation of the genre of disco)
+0.83: (the pop music genre; is a variation of; the genre of disco)
+0.735: (the socialist republic of serbia; is; the birthplace of the singer)
+0.624: (serbia; be the socialist republic of; the singer who was born in 1972)
+0.62: (she; is; a member of the pop music genre)
+0.425: (the birthplace of the singer; be the socialist republic of; serbia)
+
+the alvis car and engineering company was founded in coventry and is the manufacturer of the alvis speed 25 which has a petrol engine .
+0.9: (the alvis car and engineering company; was founded in; coventry)
+0.564: (a petrol engine; be has by; the alvis speed 25)
+
+agnes ward white was born in marietta , ohio .
+0.899: (agnes ward white; was born in; marietta)
+0.552: (agnes ward white; was born at; marietta)
+0.551: (agnes ward white; was born on; marietta)
+0.454: (marietta; was born in; ohio)
+
+the body style of the audi a1 , which has a 1 . 2 litres engine , is " hatchback " . it was designed in brussels .
+0.893: (it; was designed in; brussels)
+0.768: (engine; be litres by; the body style of the audi a1)
+0.717: (the body style of the audi a1 2 litres engine; is; hatchback)
+0.62: (a 1; be has by; the audi a1)
+0.603: (2; litres; engine)
+0.55: (hatchback; be the body style of; the audi a1 which has a 1)
+
+albert b . white was born in cleveland and was a member of the republican party . he was the successor to william m . o . dawson and began working for the us government on march 4th , 1904 . he retired on the 4th of march , 1905 .
+0.894: (white; was born in; cleveland)
+0.852: (he; retired on; the 4th of march)
+0.674: (white; was born albert; b)
+0.635: (he; was; the successor)
+0.603: (he; was a member of; the republican party)
+0.602: (us; be government on; march 4th)
+0.538: (white; was born at; cleveland)
+0.537: (white; was born on; cleveland)
+0.289: (he; was; a member of the republican party)
+
+the k2 kovac sisters and kornelije kovac are both associated with the singer , aleksandra kovac , who has a background in the genre of rhythm and blues . he was born in 1990 .
+0.869: (he; was born in; 1990)
+0.726: (the k2; kovac; sisters and kornelije kovac)
+0.563: (a background; be has by; the singer)
+0.477: (he; was born at; 1990)
+0.476: (he; was born on; 1990)
+
+the school of business and social sciences at the aarhus university was established in 1928 in aarus , denmark . it has 737 academic staff . denmark ' s leader is lars lokke rasmussen .
+0.929: (the school of business and social sciences; was established in; 1928)
+0.911: (leader; denmark ' s leader is lars lokke; rasmussen)
+0.617: (leader; is lars of; denmark)
+0.569: (it; has; 737 academic staff)
+
+the leader of the netherlands is mark rutte and the leader is khadija arib . the country is the residence of agnes kant who was born in the netherlands and worked for the house of representatives .
+0.953: (the country; is the residence of; agnes kant who was born in the netherlands and worked for the house of representatives)
+0.798: (agnes kant who was born in the netherlands; worked for; the house of representatives)
+0.794: (the country; is; the residence of agnes kant)
+0.698: (the leader of the netherlands; is; mark rutte and the leader is khadija arib)
+0.492: (mark rutte and the leader is khadija arib; be the leader of; the netherlands)
+
+the school of business and social sciences at the aarhus university was established in 1928 and is affiliated with the european university association headquartered in brussels .
+0.9: (the school of business and social sciences; is affiliated with; the european university association)
+0.9: (the school of business and social sciences; was established in; 1928)
+
+aid aluna is the power type of caterpillar , which was founded in california and is located in peoria , illinois .
+0.955: (aid aluna; is the power type of; caterpillar which was founded in california and is located in peoria , illinois)
+0.736: (aid aluna; is; the power type of caterpillar)
+0.644: (illinois; is located in; peoria)
+0.559: (peoria; is located in; illinois)
+
+adisham hall in haputale was completed in 1931 and has the architectural style of tudor and jacobean .
+0.9: (adisham hall; was completed in; 1931)
+0.41: (architectural; be style of; tudor and jacobean)
+
+the 11th mississippi infantry monument is located at seminary ridge , adams county , pennsylvania , united states . it was established in 2000 and falls under the category of contributing property .
+0.919: (the 11th mississippi infantry monument; is located at; seminary ridge)
+0.869: (it; was established in; 2000)
+0.759: (adams county , pennsylvania; united; states)
+0.617: (the 11th mississippi infantry monument; is located in; seminary ridge)
+0.609: (the 11th mississippi infantry monument; is located on; seminary ridge)
+
+the commander of airey neave was chiang kai - shek and it was involved in battles in world war ii . it is part of the royal artillery which has its headquarters in hohne .
+0.906: (it; is part of; the royal artillery which has its headquarters in hohne)
+0.805: (it; was was involved in; battles)
+0.738: (the royal artillery; has its headquarters in; hohne)
+0.643: (its headquarters; be has by; the royal artillery)
+0.62: (it; is; part of the royal artillery)
+0.6: (the commander of airey neave; was chiang; shek)
+
+anders osborne , who is a member of the band galactic , is also associated with the band tab benoit and the band billy iuso . he was born in the year 1989 and his genre is blues .
+0.878: (anders osborne who is a member of the band galactic; is also associated with; blues)
+0.857: (anders osborne; is a member of; the band galactic)
+0.781: (he; the band billy iuso was born in; the year 1989)
+0.736: (the band tab benoit and the band billy iuso . he was born in the year 1989 and his genre; is; blues)
+0.387: (he; the band billy iuso was born at; the year 1989)
+0.386: (he; the band billy iuso was born on; the year 1989)
+
+aid aluna is owned by aida cruises and is located in peoria , illinois . the company was founded in california in the united states .
+0.925: (the company; was founded in; california)
+0.9: (aid aluna; is located in; peoria)
+0.9: (aid aluna; is owned by; aida cruises)
+0.553: (aid aluna; is located at; peoria)
+0.552: (aid aluna; is located on; peoria)
+0.484: (peoria; is located in; illinois)
+
+the atlanta falcons are the debut team for the atlanta born , akeem dent , who was born in atlanta , georgia on 27th september 1987 .
+0.89: (the atlanta falcons; are the debut team for; the atlanta born)
+0.881: (the atlanta falcons; are the debut team akeem; dent who was born in atlanta)
+0.476: (dent who was born in atlanta; be georgia on; 27th september 1987)
+
+abner footballer was born in brazil .
+0.919: (abner footballer; was born in; brazil)
+0.609: (abner footballer; was born at; brazil)
+0.608: (abner footballer; was born on; brazil)
+
+aleksander barkov jr . was born in tampere , finland on the 2nd of september 1995 . he played for the florida panthers .
+0.907: (aleksander barkov jr; was born on; 2nd of september 1995)
+0.9: (aleksander barkov jr; was born in; tampere)
+0.84: (he; played for; the florida panthers)
+0.553: (aleksander barkov jr; was born at; tampere)
+
+the amc matador was built in 1974 in kenosha , wisconsin .
+0.929: (the amc matador; was built in; 1974)
+0.9: (the amc matador; was built in; kenosha)
+
+african americans are an ethnic group in the united states where albuquerque , new mexico is located .
+0.911: (african americans; are an ethnic group in; the united states where albuquerque , new mexico is located)
+0.564: (albuquerque; is located in; the united states)
+0.564: (new mexico; is located in; the united states)
+0.488: (ethnic; are group in; the united states where albuquerque , new mexico is located)
+
+250 delaware avenue , buffalo , new york , has 12 floors and a total floor area of 30843 . 8 square metres . the building was started in january 2014 and has the postmodern architectural style .
+0.914: (the building; was started in; january 2014)
+0.752: (250 delaware avenue; has; 12 floors and a total floor area of 30843)
+
+the 11th mississippi infantry monument was established in 2000 and falls under the category of contributing property .
+0.9: (the 11th mississippi infantry monument; was established in; 2000)
+
+philip charles hardwick was the architect of adare manor which was completed in 1862 and is owned by j . p . mcmanus .
+0.936: (philip charles hardwick; was the architect of; adare manor which was completed in 1862)
+0.738: (philip charles hardwick; was; the architect of adare manor)
+0.627: (philip charles hardwick; is owned; p . mcmanus)
+0.509: (philip charles hardwick; is owned p . mcmanus by; j)
+
+alfred garth jones was an english national who was born in manchester in 1872 . he died in london .
+0.869: (an english national; was born in; manchester)
+0.818: (an english national; was born in; 1872)
+0.779: (alfred garth jones; was; an english national)
+
+the abarth 1000 gt coupe was produced in 1958 and has the body style of a coupe . it has a straight - four engine .
+0.9: (the abarth 1000 gt coupe; was produced in; 1958)
+0.624: (it; has; a straight - four engine)
+
+barny cakes are made with sponge cake and can be found in france where the leaders are gérard larcher and francois hollande . french is the language spoken in france .
+0.87: (barny cakes; are made with; sponge cake)
+0.741: (the language; be spoken in; france)
+0.561: (french; is; the language spoken in france)
+0.543: (french; is the language in; france)
+
+william anders served as a fighter pilot and was selected by nasa in 1963 to be part of the apollo 8 crew .
+0.877: (william anders; served as; a fighter pilot)
+0.852: (william anders; was selected by; nasa)
+0.817: (william anders; was selected in; 1963)
+
+the 11th mississippi infantry monument was established in 2000 .
+0.919: (the 11th mississippi infantry monument; was established in; 2000)
+
+the school of business and social sciences at the aarhus university in aarus , denmark was established in 1928 .
+0.919: (the school of business and social sciences at the aarhus university in aarus , denmark; was established in; 1928)
+
+the architect augustus pugin was born in bloomsbury and designed the significant buildings of the palace of westminster and adare manor in the republic of ireland . the leader of the republic is enda kenny .
+0.9: (the architect augustus pugin; was born in; bloomsbury)
+0.795: (the significant buildings of the palace of westminster and adare manor; be designed in; the republic of ireland)
+0.721: (the architect augustus pugin; designed the significant buildings of the palace of westminster and adare manor in; the republic of ireland)
+0.704: (the leader of the republic; is; enda kenny)
+0.553: (the architect augustus pugin; was born at; bloomsbury)
+0.552: (the architect augustus pugin; was born on; bloomsbury)
+0.399: (enda kenny; be the leader of; the republic)
+
+william anders was born in british hong kong and served as a crew member of apollo 8 .
+No extractions found.
+
+a wizard of mars was published in english in the united states where barack obama is the leader and asian americans are one of the ethnic groups .
+0.929: (a wizard of mars; was published in; english)
+0.653: (barack obama; is; the leader and asian americans)
+
+the character of aaron deer , who is a member of the psychedelia genre , was born in indiana .
+0.878: (the character of aaron deer; was born in; indiana)
+0.779: (aaron deer; is a member of; the psychedelia genre)
+0.498: (the character of aaron deer; was born at; indiana)
+0.497: (the character of aaron deer; was born on; indiana)
+
+american test pilot alan bean was born in wheeler , texas on march 15th , 1932 . he spent 100305 minutes in space and is now retired .
+0.914: (american test pilot alan bean; was born in; wheeler)
+0.84: (he; spent 100305 minutes in; space)
+0.779: (100305 minutes; be spent in; space)
+0.75: (he; spent; 100305 minutes)
+0.595: (american test pilot alan bean; was born at; wheeler)
+0.594: (american test pilot alan bean; was born on; wheeler)
+
+320 south boston building was started in 1910 .
+0.919: (320 south boston building; was started in; 1910)
+
+the manager of fc torpedo moscow is valery petrakov . the club is affiliated with the soviet union national football team . the footballer died in russia where the leader is valentina matviyenko .
+0.907: (the footballer; died in; russia where the leader is valentina matviyenko)
+0.894: (the club; is affiliated with; the soviet union)
+0.686: (the footballer; died; russia where the leader is valentina matviyenko)
+0.667: (the manager of fc torpedo moscow; is; valery petrakov)
+0.492: (valery petrakov; be the manager of; fc torpedo moscow)
+
+the english language is spoken in the united states where the leader is known as the president and barack obama is the leader . albuquerque , new mexico is part of new mexico .
+0.935: (the english language; is spoken in; the united states where the leader is known as the president and barack obama)
+0.926: (new mexico; albuquerque , new mexico is part of; new mexico)
+0.894: (the leader; is known as; the president and barack obama)
+0.564: (the leader; is known in; the united states)
+
+bhajji originates from india where the leader is t s thakur .
+0.709: (the leader; is t; s)
+
+alfred n . phillips was born in darien , connecticut . he served as a member of the u . s . house of representatives from the 4th district and is the successor to albert e . austin .
+0.914: (phillips; was born in; darien , connecticut)
+0.88: (he; served as; a member of the u)
+0.775: (s; be house of; representatives)
+0.704: (s; is; house of representatives from the 4th district and is the successor to albert e)
+0.657: (s; be house of representatives from; the 4th district)
+0.596: (phillips; was born at; darien , connecticut)
+0.595: (phillips; was born on; darien , connecticut)
+0.303: (he; be a member of; the u)
+
+bacon explosion comes from the united states where barack obama is the leader and the capital is washington d . c . asian americans are one of the ethnic groups there .
+0.875: (bacon explosion; comes from; the united states where barack obama is the leader and the capital is washington d . c .)
+0.811: (barack obama; is washington; d)
+0.811: (the capital; is washington; d)
+0.653: (barack obama; is; the leader)
+0.48: (the capital; is; the leader)
+
+the netherlands national under - 17 football team is managed by adam maher who plays for psv eindhoven .
+0.931: (17 football team; is managed by; adam maher who plays for psv)
+0.726: (adam maher; plays for; psv eindhoven)
+
+the arctech helsinki shipyard is the builder of the icebreaker , which is 21 . 2 in length and is in service .
+0.913: (the arctech helsinki shipyard; is the builder of; the icebreaker which is 21)
+0.806: (the arctech helsinki shipyard; is the builder of the icebreaker , which is 21 . 2 in; length)
+0.804: (the arctech helsinki shipyard; is; the builder of the icebreaker , which is 21 . 2)
+0.747: (the arctech helsinki shipyard; is in; service)
+
+the full name of a . f . c . blackpool is " association football club blackpool " . they have 1500 members and their ground is in blackpool .
+0.885: (their ground; is in; blackpool)
+0.653: (blackpool; is; association football club blackpool)
+0.648: (they; have their ground is in blackpool; 1500 members)
+0.194: (full; be name of; a . f)
+
+atlantic city international airport is located in egg harbor township , atlantic county , new jersey , united states and has the icao location identifier kacy .
+0.752: (atlantic city international airport; is located; atlantic county)
+0.75: (atlantic city international airport; is located atlantic county , new jersey , united states in; egg harbor township)
+0.347: (atlantic city international airport; is located atlantic county , new jersey , united states at; egg harbor township)
+0.346: (atlantic city international airport; is located atlantic county , new jersey , united states on; egg harbor township)
+
+andrews county airport is located in texas where the capital is austin and english is spoken .
+0.9: (andrews county airport; is located in; texas where the capital is austin and english)
+0.653: (the capital; is; austin and english)
+0.553: (andrews county airport; is located at; texas where the capital is austin and english)
+0.552: (andrews county airport; is located on; texas where the capital is austin and english)
+
+aek athens f . c . has 69618 members and play in the superleague greece . their ground is located in greece and they played in the 2014 season .
+0.922: (they; played in; the 2014 season)
+0.922: (their ground; is located in; greece)
+0.736: (aek; athens; f)
+0.618: (their ground; is located at; greece)
+0.618: (their ground; is located on; greece)
+
+adisham hall is located in sri lanka and has the tudor revival architectural style .
+0.9: (adisham hall; is located in; sri lanka)
+0.553: (adisham hall; is located at; sri lanka)
+0.552: (adisham hall; is located on; sri lanka)
+
+a severed wasp originates from the united states where barack obama is the leader and asian americans are one of the ethnic groups . the book is written in english which is spoken in great britain .
+0.945: (the book; is written in; english which is spoken in great britain)
+0.703: (one of the ethnic groups; be a severed wasp originates from; the united states where barack obama is the leader and asian americans)
+0.653: (barack obama; is; the leader and asian americans)
+
+the guiana space centre is located in kourou , french guiana and is the location of the launch site of the ariane 5 .
+0.9: (the guiana space centre; is located in; kourou)
+0.553: (the guiana space centre; is located at; kourou)
+0.552: (the guiana space centre; is located on; kourou)
+0.484: (kourou; is located in; french guiana)
+
+the owner of aida cruises is aid , which is located in illinois and has the power type of caterpillar .
+0.802: (the owner of aida cruises; is; aid which is located in illinois and has the power type of caterpillar)
+0.643: (the power type of caterpillar; be has by; aid which is located in illinois)
+0.492: (aid which is located in illinois and has the power type of caterpillar; be the owner of; aida cruises)
+
+beef kway teow is a dish from singapore and indonesia . standard chinese is spoken in singapore and the leader is halimah yacob .
+0.896: (beef kway teow; is a dish from; singapore and indonesia)
+0.894: (standard chinese; is spoken in; singapore)
+0.746: (beef kway teow; is; a dish)
+0.704: (the leader; is; halimah yacob)
+
+the german language is spoken in belgium where antwerp international airport serves the city .
+0.929: (the german language; is spoken in; belgium where antwerp international airport serves the city)
+0.772: (antwerp international airport; serves; the city)
+0.564: (the city; be serves by; belgium)
+
+the 11th mississippi infantry monument , established in 2000 , is located in the state of pennsylvania in the united states and falls under the category of contributing property .
+0.959: (the 11th mississippi infantry monument established in 2000; is located in; the state of pennsylvania)
+0.803: (the 11th mississippi infantry monument; be established in; 2000)
+0.762: (the 11th mississippi infantry monument established in 2000; is located at; the state of pennsylvania)
+0.761: (the 11th mississippi infantry monument established in 2000; is located on; the state of pennsylvania)
+
+angola international airport is located in ícolo e bengo , luanda province , angola .
+0.893: (angola international airport; is located in; ícolo e bengo)
+0.537: (angola international airport; is located at; ícolo e bengo)
+0.536: (angola international airport; is located on; ícolo e bengo)
+0.476: (ícolo e bengo; is located in; angola)
+
+the polish language is spoken in poland and the country is the location of the battles of the polish - soviet war which was commanded by joseph stalin . the polish national is adam koc who fought in the war .
+0.933: (the country; is the location of; the battles of the polish)
+0.9: (the polish language; is spoken in; poland)
+0.82: (adam koc; fought in; the war)
+0.793: (the polish national; is; adam koc who fought in the war)
+0.724: (the country; is; the location of the battles of the polish)
+
+the baku turkish martyrs ' memorial is dedicated to the ottoman army soldiers killed in the battle of baku . the native name of the memorial is turk sehitleri aniti . it is located in azerbaijan ' s capital city , baku , .
+0.84: (it; is located in; azerbaijan)
+0.703: (the baku turkish martyrs ' memorial; is dedicated the native name of the memorial is turk sehitleri aniti . it is located in azerbaijan ' s capital city , baku , to; the ottoman army soldiers)
+0.632: (the memorial; is; turk sehitleri aniti it is located in azerbaijan ' s capital city , baku ,)
+0.583: (the baku turkish martyrs ' memorial; is dedicated; the native name the memorial is turk sehitleri aniti .)
+0.42: (it; is located at; azerbaijan)
+0.419: (it; is located on; azerbaijan)
+
+alexander l . wolf is the leader of the association for computing machinery which is based in new york city and publishes acm transactions on information systems .
+0.939: (alexander l; is the leader of; the association)
+0.867: (wolf; is the leader of; the association)
+0.804: (alexander l; is; the leader of the association)
+0.747: (alexander l; publishes acm transactions on; information systems)
+0.678: (alexander l; publishes; acm transactions)
+0.632: (wolf; is; the leader of the association)
+0.554: (wolf; publishes acm transactions on; information systems)
+0.47: (wolf; publishes; acm transactions)
+
+the 1 decembrie 1918 university is located in romania where the leader is klaus iohannis and one of the ethnic groups are the germans of romania .
+0.945: (1918 university; is located in; romania where the leader is klaus iohannis and one of the ethnic groups are the germans of romania)
+0.926: (one of the ethnic groups; are the germans of; romania)
+0.926: (the leader; are the germans of; romania)
+0.703: (1918 university; is located at; romania where the leader is klaus iohannis and one of the ethnic groups are the germans of romania)
+0.702: (1918 university; is located on; romania where the leader is klaus iohannis and one of the ethnic groups are the germans of romania)
+
+awh engineering college is located in the state of kerala which has mahe , india to its northwest . kerala ' s leader is kochi .
+0.902: (engineering college; awh is located in; the state of kerala)
+0.62: (engineering college; awh is located at; the state of kerala)
+0.619: (engineering college; awh is located on; the state of kerala)
+
+a severed wasp is written in english which is spoken in great britain .
+0.948: (a severed wasp; is written in; english which is spoken in great britain)
+
+aid aluna was founded in california and is owned by aida cruises . the company is located in illinois and has the power type of caterpillar .
+0.9: (aid aluna; is owned by; aida cruises)
+0.9: (aid aluna; was founded in; california)
+0.894: (the company; is located in; illinois)
+0.538: (the company; is located at; illinois)
+0.537: (the company; is located on; illinois)
+
+batchoy is eaten in the philippines and the main ingredients are noodles , pork organs , vegetables , chicken , shrimp and beef .
+No extractions found.
+
+aarhus lufthavn a / s is the operating organisation for aarus airport which has a runway length of 2777 . 0 .
+0.89: (s; is the operating organisation for; aarus airport which has a runway length of 2777)
+0.632: (s; is; the operating organisation)
+0.564: (a runway length of 2777; be has by; aarus airport)
+
+the native americans are an ethnic group in the united states where alfred moore scales was born . he was a part of the american civil war which was commanded by jefferson davis . he fought in the battle of the siege of petersburg which was part of that war .
+0.909: (he; was a part of; the american civil war which was commanded by jefferson davis)
+0.89: (the native americans; are an ethnic group in; the united states where alfred moore scales was born)
+0.853: (he; fought in; the battle of the siege of petersburg)
+0.778: (petersburg; was part of; that war)
+0.623: (he; was; a part of the american civil war)
+0.564: (alfred moore scales; was born in; the united states)
+0.431: (ethnic; are group in; the united states where alfred moore scales was born)
+
+alan shepard was born in new hampshire and died in california . he was awarded the distinguished service medal by the united states navy which ranks higher than the department of commerce gold medal . he served as a crew member on the nasa operated apollo 14 .
+0.9: (alan shepard; was born in; new hampshire)
+0.894: (he; was awarded the distinguished service medal by; the united states navy which ranks higher than the department of commerce gold medal)
+0.859: (he; served as; a crew member)
+0.791: (alan shepard; died in; california)
+0.764: (he; served on; the nasa)
+0.687: (he; was awarded; the distinguished service medal)
+0.553: (alan shepard; was born at; new hampshire)
+0.552: (alan shepard; was born on; new hampshire)
+
+abdulsalami abubakar is the vice president and the commander of the nigerian air force . he was preceded by al - amin daggash and his predecessor was olipo diya .
+0.801: (he; was preceded by; al - amin daggash and his predecessor)
+0.781: (the vice president and the commander of the nigerian air force . he was preceded by al - amin daggash and his predecessor; was; olipo diya)
+0.76: (abdulsalami abubakar; be the commander of; the nigerian air force)
+0.711: (abdulsalami abubakar; is; the vice president and the commander of the nigerian air force . he was preceded by al - amin daggash and his predecessor)
+0.528: (he; was preceded in; the vice president and the commander of the nigerian air force)
+
+the manager of maccabi ashdod b . c . is zvi sherf and they play in the turkish basketball super league .
+0.865: (they; play in; the turkish basketball super league)
+0.672: (c; play in; the turkish basketball super league)
+0.562: (they; is; zvi sherf)
+0.442: (c; is; zvi sherf)
+0.302: (c; be the manager of; maccabi ashdod b)
+
+julia morgan was born in california and was the architect of chinatown in san francisco and the asilomar conference grounds .
+0.894: (julia morgan; was born in; california)
+0.537: (julia morgan; was born at; california)
+0.537: (julia morgan; was born on; california)
+
+al asad airbase is operated by the united states air force who were involved in the invasion of grenada .
+0.945: (al asad airbase; is operated by; the united states air force who were involved in the invasion of grenada)
+
+the mason school of business is located in the united states and are the current tenants of alan b miller hall which was started on 30 march 2007 .
+0.9: (the mason school of business; is located in; the united states)
+0.553: (the mason school of business; is located at; the united states)
+0.552: (the mason school of business; is located on; the united states)
+
+the native americans are an ethnic group in the united states where the capital is washington d . c . and the national anthem is the star - spangled banner . the country is the origin of the book " alv x - 1 " .
+0.933: (the native americans; are an ethnic group in; the united states where the capital is washington d)
+0.909: (the country; is the origin of; the book)
+0.865: (the national anthem; are an ethnic group in; the united states where the capital is washington d)
+0.811: (the capital; is washington; d)
+0.763: (the native americans; is; an ethnic group in the united states where the capital is washington d . c . and the national anthem is the star)
+0.724: (the country; is; the origin of the book)
+0.564: (ethnic; are group in; the united states where the capital is washington d)
+
+frederick , maryland is the nearest city to the monocacy national battlefield which is the location of the 14th new jersey volunteer infantry monument established on 11 july 1907 .
+0.95: (maryland; frederick , maryland is the nearest city to; the monocacy national battlefield which is the location of the 14th new jersey volunteer infantry monument)
+0.83: (the monocacy national battlefield; is the location of; the 14th new jersey volunteer infantry monument established on 11 july 1907)
+0.77: (maryland; frederick , maryland is the nearest city of; the monocacy national battlefield which is the location of the 14th new jersey volunteer infantry monument)
+0.705: (the 14th new jersey volunteer infantry monument; be established on; 11 july 1907)
+0.564: (nearest; is city to; the monocacy national battlefield which is the location of the 14th new jersey volunteer infantry monument)
+
+blt is a variation of the club sandwich and bacon sandwich . it includes lettuce .
+0.825: (blt; is a variation of; the club sandwich and bacon sandwich)
+0.678: (it; includes; lettuce)
+0.643: (lettuce; be includes by; a variation of the club sandwich)
+0.581: (blt; is; a variation of the club sandwich it includes lettuce)
+
+the atlantic city international airport is operated by the port authority of new york and new jersey and has a runway length of 3048 . 0 .
+0.926: (the atlantic city international airport; is operated by; the port authority of new york)
+
+houston is the largest city in texas which is the location of austin . austin is part of hays county which has san marcos as its county seat .
+0.939: (austin; is part of; hays county which has san marcos as its county seat)
+0.933: (houston; is the largest city in; texas which is the location of austin)
+0.746: (houston; is; the largest city)
+0.736: (texas; is the location of; austin)
+0.724: (austin; is; part of hays county)
+0.714: (houston; is the largest city of; texas which is the location of austin)
+0.564: (largest; is city in; texas which is the location of austin)
+
+bacon explosion is a dish from the kansas city metropolitan area in the united states . the main ingredients are bacon and sausage .
+0.927: (bacon explosion; is a dish from; the kansas city metropolitan area)
+0.87: (bacon explosion; is a dish in; the united states)
+0.746: (bacon explosion; is; a dish)
+0.608: (bacon explosion; is a dish of; the united states)
+
+albany , georgia is part of the u . s . state of georgia . the english language is spoken in the united states and native americans are one of the ethnic groups there .
+0.935: (georgia; albany , georgia is part of; the u)
+0.894: (the english language; is spoken in; the united states and native americans)
+0.758: (albany , georgia is part of the u; s; state of georgia)
+
+atlantic city international airport is located in egg harbor township , new jersey , united states . it is owned by the south jersey transportation authority whose leader is stephen dilts .
+0.919: (atlantic city international airport; is located in; egg harbor township)
+0.906: (it; is owned by; the south jersey transportation authority whose leader is stephen dilts)
+0.78: (whose leader; is stephen; dilts)
+0.61: (atlantic city international airport; is located at; egg harbor township)
+0.609: (atlantic city international airport; is located on; egg harbor township)
+0.606: (whose leader; is stephen dilts in; the south jersey transportation authority)
+0.504: (it; is owned in; new jersey)
+
+penguin random house is the parent company of viking press which published a long long way .
+0.684: (random house; penguin is; the parent company viking press)
+
+houston is the largest city in texas where spanish is spoken . austin is part of hays county which has san marcos as its county seat .
+0.939: (austin; is part of; hays county which has san marcos as its county seat)
+0.746: (houston; is; the largest city)
+0.724: (austin; is; part of hays county)
+0.684: (texas; is spoken; part of hays county)
+
+the active years of abner w . sibal are 1965 - 01 - 03 .
+No extractions found.
+
+american motors , which was founded by roy d . chapin jr . , is the manufacturer of the amc matador and the eagle automobile . the company ' s parent company is chrysler .
+0.621: (american motors which was founded by roy; d chapin jr; the company ' s parent company is chrysler)
+0.529: (american motors which was founded by roy; d the company ' s parent company is chrysler; chapin jr)
+
+the acharya institute of technology in the state of karnataka was given technical campus status by the all india council for technical education in mumbai . karnataka has telangana to its northeast and the arabian sea to its west . the institute offers tennis which is governed by the international tennis federation .
+0.79: (the acharya institute of technology; was given; technical campus status)
+
+asher and mary isabelle richardson house has the reference number 88002539 in the national register of historic places .
+0.838: (asher and mary isabelle richardson house; has in; the national register of historic places)
+0.768: (asher and mary isabelle richardson house; has; the reference number 88002539)
+
+albennie jones was born in the united states where african americans are one of the ethnic groups . he is the author of the book " rhythm and blues " which is a genre of blues .
+0.861: (he; is the author of; the book)
+0.62: (he; is; the author of the book)
+
+english is the language spoken in texas , united states , where the largest city is houston and the english language is spoken . arlington is part of texas .
+0.957: (arlington; is part of; texas)
+0.854: (arlington; is; part of texas)
+0.803: (english; is; the language spoken in texas)
+0.791: (english; is the language in; texas)
+0.746: (the language; be spoken in; texas)
+0.705: (the largest city; is; houston)
+
+bill marriott is the key person at marriott international which was founded in washington dc . the company is the current tenant of ac hotel bella sky copenhagen in denmark where the greenlandic language is spoken .
+0.936: (the company; is the current tenant of; ac hotel bella sky copenhagen)
+0.933: (bill marriott; is the key person at; marriott international which was founded in washington dc)
+0.826: (the company; is the current tenant of ac hotel bella sky copenhagen in; denmark where the greenlandic language is spoken)
+0.794: (the company; is; the current tenant of ac hotel bella sky copenhagen)
+0.746: (bill marriott; is; the key person)
+0.564: (the greenlandic language; is spoken in; denmark)
+
+noodles , pork organs , vegetables , chicken , shrimp and beef are the main ingredients of batchoy which comes from the philippines .
+0.955: (noodles , pork organs , vegetables , chicken , shrimp and beef; are the main ingredients of; batchoy which comes from the philippines)
+0.738: (batchoy; comes from; the philippines)
+0.719: (noodles , pork organs , vegetables , chicken , shrimp and beef; are the main ingredients in; batchoy which comes from the philippines)
+
+general dynamics is the parent company of general dynamics electric boat which built the american submarine nr - 1 .
+No extractions found.
+
+general dynamics is the parent company of general dynamics electric boat which is located in the city of groton , connecticut . the company is the builder of the american submarine nr - 1 which has a 3 . 8 m . in length .
+0.909: (the company; is the builder of; the american submarine nr)
+0.724: (the company; is; the builder of the american submarine nr)
+0.361: (3; be has by; 1)
+
+aek athens f . c . played in the 2014 - 15 football league greece season .
+0.736: (aek; athens f; c)
+0.6: (aek; athens c; f)
+
+alvah sabin was born in georgia and died in sycamore , illinois . he was a member of the 3rd congressional district in the state of vermont , where the largest city is burlington .
+0.92: (he; was a member of; the 3rd congressional district)
+0.919: (alvah sabin; was born in; georgia)
+0.827: (alvah sabin; died in; sycamore)
+0.754: (he; was; a member of the 3rd congressional district)
+0.75: (the largest city; is; burlington)
+0.61: (alvah sabin; was born at; georgia)
+0.609: (alvah sabin; was born on; georgia)
+
+the youth club of a . s . roma is alessio romagnoli .
+0.704: (roma; is; alessio romagnoli)
+
+the surface of the 1st runway at alderney airport is made from poaceae which belongs to the division of flowering plants and the order of commelinids . poaceae is in the class monocotyledon .
+0.955: (the surface of the 1st runway; is made from; poaceae which belongs to the division)
+0.847: (poaceae; is in; the class monocotyledon)
+0.783: (poaceae; belongs to; the division flowering plants and the order of commelinids)
+
+the county seat of tarrant county in texas is fort worth . the largest city in the county is houston and the language spoken is spanish .
+0.704: (the largest city; is; houston and the language spoken is spanish)
+0.667: (the county seat of tarrant county; is; fort worth)
+0.587: (fort worth; be the county seat of; tarrant county)
+0.441: (fort worth; be the county seat of tarrant county in; texas)
+0.351: (houston and the language spoken is spanish; be the largest city in; the county)
+0.31: (largest; be city in; the county)
+
+douglas r . oberhelman is the key person at caterpillar , which was founded in the united states and is owned by aida cruises . the company is the current owner of aid aluna which is located in peoria , illinois .
+0.953: (the company; is the current owner of; aid aluna which is located in peoria , illinois)
+0.929: (oberhelman; is the key person at; caterpillar which was founded in the united states and is owned by aida cruises)
+0.735: (oberhelman; is; the key person)
+0.724: (the company; is; the current owner of aid aluna)
+0.644: (illinois; is located in; peoria)
+0.559: (peoria; is located in; illinois)
+
+anders osborne is a member of the band the voice of the wetlands all - stars . he is also associated with the band galactic and the band billy iuso . his career began in 1989 and he plays rock music .
+0.834: (his career; the band billy iuso . began in; 1989)
+0.743: (osborne; is a member the voice of the wetlands all - stars . he is also associated with the band galactic and the band billy iuso . his career began in 1989 of; the band)
+0.743: (osborne; is; a member of the band)
+0.692: (the band galactic; the band billy iuso . began in; 1989)
+0.678: (he; plays; rock music)
+0.222: (stars; be the voice of; the wetlands)
+
+andrew rayel ( born in chisinau , moldova ) is a member of the christian burns and armin van buuren bands . he is in the genre of trance and started working in 2009 .
+0.67: (he; is started in; the genre of trance)
+0.63: (he; started working in; 2009)
+
+the career of aleksandra kovac began in 1990 and she is in the genre of soul music .
+0.891: (the career of aleksandra kovac; is in; the genre of soul music)
+0.877: (the career of aleksandra kovac; began in; 1990)
+0.827: (she; is in; the genre of soul music)
+0.67: (she; began in; 1990)
+
+the manager of a . c . milan is sinisa mihajlovic . they play in the serie a league and are in the u . s . sampdoria club . they have a player called alessio romagnoli who plays in the defender football .
+0.874: (they; have; called alessio romagnoli who plays in the defender football)
+0.835: (they; are in; the u)
+0.835: (they; play in; the serie)
+0.809: (called alessio romagnoli; plays in; the defender football)
+0.773: (milan; is; sinisa mihajlovic they play in the serie a league and are in the u they have a player called alessio romagnoli)
+
+airey neave was born in knightsbridge , london on march 4th , 1974 . he fought in the battle of france and retired on march 30th , 1979 .
+0.9: (airey neave; was born in; knightsbridge)
+0.853: (he; fought in; the battle of france)
+0.788: (airey neave; was born; london)
+0.553: (airey neave; was born at; knightsbridge)
+0.552: (airey neave; was born on; knightsbridge)
+0.407: (he; be retired on; march 30th)
+
+a . c . chievo verona ' s ground is in verona , italy and they have 39371 members .
+0.812: (they; have; 39371 members)
+0.702: (chievo verona; is italy in; verona)
+0.615: (they; is italy in; verona)
+0.609: (chievo verona; have; 39371 members)
+0.527: (a . c; is italy in; verona)
+0.425: (a . c; have; 39371 members)
+
+the manager of fc terek grozny is rashid rakhimov . the club ' s ground is in the city of grazny and their youth club is fc spartak moscow .
+0.667: (the manager of fc terek grozny; is; rashid rakhimov)
+0.492: (rashid rakhimov; be the manager of; fc terek grozny)
+
+the full name of afc ajax ( amateurs ) is " amsterdamsche football club ajax amateurs " . they played in the 2014 season and have 5000 members . their nickname is joden godenzonen .
+0.903: (they; played in; the 2014 season)
+0.774: (they; have; 5000 members)
+0.768: (their nickname; is; joden godenzonen)
+0.197: (full; be name of; afc ajax)
+
+a . s . livorno calcio ' s ground is in livorno and they play in serie b .
+0.878: (a . s . livorno calcio ' s ground; play in; serie b)
+0.873: (a . s . livorno calcio ' s ground; is in; livorno)
+0.865: (they; play in; serie b)
+0.749: (they; is in; livorno)
+
+andrew rayel was born in chisinau , moldova . he is a member of the jwaydan moyine and the bobina bands . he performed in 2009 and is in the genre of trance .
+0.909: (moldova; is a member of; the jwaydan moyine and the bobina bands)
+0.894: (rayel; was born in; chisinau)
+0.861: (he; is a member of; the jwaydan moyine and the bobina bands)
+0.827: (he; is in; the genre of trance)
+0.806: (he; performed in; 2009)
+0.724: (moldova; is; a member of the jwaydan moyine)
+0.62: (he; is; a member of the jwaydan moyine)
+0.538: (rayel; was born at; chisinau)
+0.537: (rayel; was born on; chisinau)
+
+christian burns and jonathan mendelsohn are both associated with andrew rayel , who is in the genre of trance and started in 2009 .
+No extractions found.
+
+103 colmore row , birmingham , has 23 floors and was started in 1973 and completed in 1976 .
+0.851: (103 colmore row; completed in; 1976)
+0.832: (103 colmore row; was started in; 1973)
+0.74: (103 colmore row; has; 23 floors)
+0.56: (103 colmore row; completed; 1976)
+
+the arctech helsinki shipyard was the builders of the icebreaker , which is in service and has a length of 21 . 2 .
+0.955: (the arctech helsinki shipyard; was the builders of; the icebreaker which is in service and has a length of 21 . 2)
+0.738: (the arctech helsinki shipyard; was; the builders of the icebreaker)
+
+the editor of aip advances is a . t . charlie johnson who lives in the united states and attended stanford university .
+0.662: (the editor of aip advances; is; a . t)
+0.302: (a . t; be the editor of; aip advances)
+
+indiana is the origin of the american , aaron deer , who is in the genre of indie rock .
+0.955: (indiana; is the origin of; the american who is in the genre of indie rock)
+0.75: (the american; is in; the genre of indie rock)
+0.735: (indiana; is; the origin of the american)
+
+alan shepard was an american born in new hampshire . he was awarded the distinguished service medal by the united states navy , which ranks higher than the department of commerce gold medal . he died in california .
+0.84: (he; died in; california)
+0.687: (he; was awarded; the distinguished service medal)
+0.669: (alan shepard; was; an american)
+0.652: (the distinguished service medal; was awarded by; the united states navy which ranks higher than the department of commerce gold medal)
+0.54: (he; died; california)
+
+1101 clematis , which has an oclc of 520906000 . 0 , has an escape velocity of 0 . 02 kilometre per second and a mass of 5 . 7 kilograms . it was created on the 31st of december , 2006 and has an orbital period of 183309000 .
+0.799: (1101 clematis which has an oclc of 520906000 . 0; has; an escape velocity of 0)
+0.769: (it; was created; 2006 and has an orbital period of 183309000)
+0.709: (it; was created 2006 and has an orbital period of 183309000 on; the 31st of december)
+0.704: (an oclc of 520906000; be has by; 1101 clematis)
+0.257: (it; was created 2006 and has an orbital period of 183309000 in; 7 kilograms)
+
+albert b . white was born on the 22nd of september , 1856 in parkersburg , west virginia . he died on the 3rd of july , 1941 .
+0.922: (white; was born on; 22nd of september)
+0.88: (he; died on; the 3rd of july , 1941)
+0.777: (white; was born; 1856)
+0.674: (white; was born albert; b)
+0.628: (white; was born in; 22nd of september)
+0.566: (he; died in; the 3rd of july , 1941)
+
+albennie jones , who was born in errata , mississippi , is in the genre of rhythm and blues , which is a variation of disco .
+0.816: (rhythm and blues; is a variation of; disco)
+0.636: (mississippi; was born in; errata)
+0.559: (errata; was born in; mississippi)
+
+alvah sabin was born on march 3 , 1857 in the region of vermont , where the largest city is burlington .
+0.79: (alvah sabin; was born; 1857)
+0.704: (the largest city; is; burlington)
+0.703: (alvah sabin; was born 1857 in the region of vermont , where the largest city is burlington on; march 3)
+0.618: (1857; was born in; the region of vermont)
+0.304: (alvah sabin; was born 1857 in the region of vermont , where the largest city is burlington in; march 3)
+
+alvah sabin was born on october 23rd , 1793 in the united states , where the leader is henry clay and the party is the whig party .
+0.9: (alvah sabin; was born on; october 23rd)
+0.653: (the leader; is; henry clay and the party)
+0.563: (alvah sabin; was born in; october 23rd)
+
+albennie jones is in the genre of jazz , which is influenced by the blues and afrobeat .
+No extractions found.
+
+batchoy is a dish from the region of la paz , iloilo city , philippines . the main ingredients are noodles , pork organs , vegetables , chicken , shrimp and beef .
+0.923: (batchoy; is a dish from; the region of la paz)
+0.746: (batchoy; is; a dish)
+
+anders osborne is a member of the rock genre , which is a variation of the bhangra genre , and has a record label called radash records .
+0.946: (osborne; is a member of; the rock genre which is a variation of the bhangra genre)
+0.743: (osborne; is; a member of the rock genre)
+0.736: (the rock genre; is a variation of; the bhangra genre)
+
+alison o ' donnell is in the genre of jazz , which is a variation of funk . one of the instruments she plays is the voice bodhran , percussion and autoharp .
+0.859: (donnell; is in; the genre of jazz)
+0.768: (one of the instruments she plays; is; the voice bodhran , percussion and autoharp)
+0.549: (jazz; is a variation of; funk)
+
+alex plante was born in canada on the 09th of may , 1989 . he was a member of the club anyang halla .
+0.929: (alex plante; was born in; canada)
+0.901: (alex plante; was born on; the 09th of may)
+0.886: (he; was a member of; the club anyang halla)
+0.675: (he; was; a member of the club anyang halla)
+0.645: (alex plante; was born at; canada)
+
+fruit preserves are an ingredient in bakewell tart , which is a variation of bakewell pudding and comes from the derbyshire dales region , which has a population of 1 , 500 .
+0.825: (fruit preserves; comes from; the derbyshire dales region which has a population of 1 , 500)
+0.797: (fruit preserves; are an ingredient in; bakewell tart)
+0.497: (a population of 1; be has by; the derbyshire dales region)
+
+the architect of a - rosa luna was neptun werft , which is located in the city of rostock , in the country of germany , where the leader is stanislaw tillich .
+0.735: (the leader; is; stanislaw)
+
+alpena county regional airport is located at 210 metres above sea level and serves the city of albany . the airport has a runway length of 1533 . 0 .
+0.929: (alpena county regional airport; is located at; 210 metres)
+0.769: (the airport; has a runway length of 1533; 0)
+0.668: (the airport; has 0; a runway length of 1533)
+0.652: (alpena county regional airport; is located in; 210 metres)
+0.644: (alpena county regional airport; is located on; 210 metres)
+
+american buzz aldrin was born in glen ridge , new jersey . he was a fighter pilot and a crew member of nasa ' s apollo 11 . william anders was a backup pilot on the apollo 11 mission .
+0.828: (american buzz aldrin; was born new jersey in; glen ridge)
+0.719: (american buzz aldrin; was born; new jersey)
+0.708: (american buzz aldrin; was born new jersey william; anders)
+0.672: (s; apollo; 11)
+0.65: (he; be a crew member of; nasa)
+0.558: (he; was; a fighter pilot and a crew member of nasa ' s apollo 11)
+0.461: (american buzz aldrin; was born new jersey at; glen ridge)
+0.46: (american buzz aldrin; was born new jersey on; glen ridge)
+
+ayam penyet is a dish from java where the javanese people are an ethnic group . it can also be found in singapore where english is spoken and the leader is tony tan .
+0.884: (it; can also be found in; singapore where english is spoken and the leader is tony tan)
+0.875: (ayam penyet; is a dish from; java where the javanese people are an ethnic group)
+0.64: (the leader; is; tony tan)
+0.481: (ayam penyet; is; a dish it can also be found in singapore)
+
+marry banilow is an associated band member of andrew white .
+0.611: (associated; is band member of; andrew white)
+
+the genre of aaron turner is " avant - garde metal " .
+0.667: (the genre of aaron turner; is; avant)
+0.492: (avant; be the genre of; aaron turner)
+
+silvano aureoles conejo is the leader of mexico where bionico is a dessert found in the region of jalisco . honey can be added to it .
+0.92: (silvano aureoles conejo; is the leader of; mexico where bionico is a dessert found in the region of jalisco . honey can be added to it)
+0.883: (a dessert found in the region of jalisco; can be added to; it)
+0.883: (honey; can be added to; it)
+0.76: (a dessert; be found in; the region of jalisco)
+0.694: (bionico; is; a dessert found in the region of jalisco)
+0.676: (silvano aureoles conejo; is; the leader of mexico)
+0.564: (a dessert found in the region of jalisco; can be added in; mexico)
+0.395: (honey; can be added in; mexico)
+
+the african americans are an ethnic group in the united states where the inhabitants are called americans and the country is the origin of the alv x - 1 .
+0.909: (the african americans; are an ethnic group in; the united states where the inhabitants are called americans)
+0.909: (the country; is the origin of; the alv x)
+0.842: (the african americans; is the origin of; the alv x)
+0.821: (the country; are an ethnic group in; the united states where the inhabitants are called americans)
+0.763: (the african americans; is; an ethnic group in the united states where the inhabitants are called americans and the country is the origin of the alv x)
+0.705: (the inhabitants; are called; americans)
+0.564: (the inhabitants; are called in; the united states)
+0.482: (ethnic; are group in; the united states where the inhabitants are called americans)
+
+alpena county regional airport is located at 210 metres above sea level in maple ridge township , in michigan . the airport serves the city of albany and has a runway length of 1533 . 0 and a runway name of 7 / 25 .
+0.929: (alpena county regional airport; is located at; 210 metres)
+0.789: (the airport; serves; the city of albany)
+0.778: (alpena county regional airport; is located in; michigan)
+0.747: (the airport; has; a runway length of 1533)
+0.644: (alpena county regional airport; is located on; 210 metres)
+
+the fried chicken dish ayam penyet can be found nationwide in java and also in malaysia and singapore . the javanese people are an ethnic group in java .
+0.869: (the javanese people; are an ethnic group in; java)
+0.396: (ethnic; are group in; java)
+
+alhambra , which has a length of 63800 . 0 ( millimetres ) and a height of 8 . 3 m , was launched on the 31st of may , 1855 . it has since been wrecked .
+0.931: (a height of 8; was launched on; the 31st of may , 1855 . it has since been wrecked)
+0.704: (a length of 63800; be has by; alhambra)
+0.65: (a height of 8; was launched in; the 31st of may , 1855 . it has since been wrecked)
+
+ashgabat international airport is 211 metres above sea level and has a 1st runway length of 12467 feet .
+0.788: (211 metres; has; a 1st runway length of 12467 feet)
+0.523: (211 metres; is ashgabat; international airport)
+
+alpena county regional airport is located at 210 metres above sea level and serves the city of albany . the airport is located in the wilson township , in michigan . the runway name is 1 / 19 and it has a length of 2744 . 0 .
+0.929: (alpena county regional airport; is located at; 210 metres)
+0.894: (the airport; is located in; michigan)
+0.894: (the airport; is located in; the wilson township)
+0.747: (the runway name; has; a length of 2744)
+0.706: (alpena county regional airport; is located in; 210 metres)
+0.653: (the runway name; is; 1 / 19)
+0.647: (it; has; a length of 2744)
+0.644: (alpena county regional airport; is located on; 210 metres)
+0.6: (the airport; is located at; michigan)
+0.6: (the airport; is located at; the wilson township)
+0.537: (the airport; is located on; michigan)
+0.537: (the airport; is located on; the wilson township)
+0.364: (it; is; 1 / 19)
+
+1097 vicia , also known as 1928 pc , was published on the 31st of december , 2006 . it has a periapsis of 279142000000 . 0 .
+0.869: (1097 vicia; was published on; the 31st of december)
+0.754: (1097 vicia; be also known 0 as; 1928 pc)
+0.699: (it; has; a periapsis of 279142000000)
+0.61: (1097 vicia; be also known; 0)
+
+alfa romeo 164 is a related type of transportation to the fiat croma .
+0.939: (alfa romeo 164; is a related type of; transportation)
+0.916: (alfa romeo 164; is a related type of transportation to; the fiat croma)
+0.804: (alfa romeo 164; is; a related type of transportation)
+
+bandeja paisa is a traditional colombian dish from the paisa region . one of its ingredients is hogao .
+0.896: (bandeja paisa; is a traditional colombian dish from; the paisa region)
+0.746: (bandeja paisa; is; a traditional colombian dish)
+
+the twilight band and the band mamiffer are both associated with the musician , aaron turner , who plays in the genre of ambient music .
+0.75: (the musician; plays in; the genre of ambient music)
+
+albert b . white was born in cleveland and was a student of william m . o . dawson . he was active from 1904 - 03 - 04 and retired on 03 - 04 - 05 .
+0.894: (white; was born in; cleveland)
+0.696: (he; was active from; 1904)[enabler=b . white was born in cleveland and was a student of william m . o . dawson]
+0.674: (white; was born albert; b)
+0.635: (he; was; active)
+0.538: (white; was born at; cleveland)
+0.537: (white; was born on; cleveland)
+
+the birth date of allen forrest is 1981 - 02 - 04 .
+0.667: (the birth date of allen forrest; is; 1981)
+0.492: (1981; be the birth date of; allen forrest)
+
+airey neave was started on 1974 - 03 - 04 and fought in the battle of france .
+0.9: (airey neave; was started on; 1974 - 03)
+0.552: (airey neave; was started in; 1974 - 03)
+
+andrews county airport is located in texas and is 973 metres above sea level . the runway length is 1773 . 0 .
+0.9: (andrews county airport; is located in; texas)
+0.653: (the runway length; is; 1773)
+0.553: (andrews county airport; is located at; texas)
+0.552: (andrews county airport; is located on; texas)
+
+alison o ' donnell was born in ireland in 1963 . she is a member of the band flibbertigibbet and is also associated with the band mellow candle . she has been awarded the floating world records .
+0.929: (alison; was born in; ireland)
+0.9: (alison; was born in; 1963)
+0.861: (she; is a member of; the band flibbertigibbet)
+0.696: (she; is also associated with; the band mellow candle)
+0.661: (she; has been awarded; the floating world records)
+0.645: (alison; was born at; ireland)
+0.644: (alison; was born on; ireland)
+0.62: (she; is; a member of the band flibbertigibbet)
+0.553: (alison; was born at; 1963)
+0.552: (alison; was born on; 1963)
+
+william anders was born in british hong kong where chris patten is a representative . he was a crew member of apollo 8 along with frank borman .
+0.899: (he; was a crew member of; 8)
+0.708: (he; was; a crew member of apollo 8)
+0.639: (chris patten; is; a representative)
+
+the abarth 1000 gt coupe is a two door coupe with a length of 2160 . 0 metres and a width of 1 . 55 .
+0.923: (the abarth 1000 gt coupe; is a two door coupe with; a length of 2160)
+0.746: (the abarth 1000 gt coupe; is; a two door coupe)
+
+born in 1981 , allen forrest is the creator of the genre of " hip hop " which is influenced by " disco " , " funk " and " drum and bass " .
+0.946: (forrest; is the creator of; the genre of " hip hop)
+0.768: (forrest; is; the creator of the genre of " hip hop)
+0.715: (forrest; be born in; 1981)
+
+the ground of olympique lyonnais is at the parc olympique léonnais . they have been managed by aleksandre guruli who plays for azal pfk .
+0.96: (they; have been managed by; aleksandre guruli who plays for azal pfk)
+0.823: (the ground of olympique lyonnais; is at; the parc olympique léonnais)
+0.738: (aleksandre guruli; plays for; azal pfk)
+
+ace wilder is in the genre of " hip hop " which has the style of " disco " .
+0.866: (ace wilder; is in; the genre of " hip hop)
+0.548: (the style of; be has by; hip hop)
+
+101 helena has an escape velocity of 0 . 0348 kilometre per second and a mass of 3 . 0 kilograms . it is 441092000 . 0 kilometres long .
+0.758: (101 helena; has; an escape velocity of 0)
+0.443: (it; is 0 kilometres long; 441092000)
+
+alderney airport is 88 metres above sea level and has a 1st runway made of poaceae . the runway name is 08 / 26 and it is 733 . 0 in length .
+0.824: (alderney airport; has made of; poaceae)
+0.822: (alderney airport; is 88 metres has above; sea level)
+0.815: (a 1st runway; has made of; poaceae)
+0.681: (a 1st runway; is 88 metres has above; sea level)
+0.68: (the runway name; is; 08 / 26 and it is 733 . 0)
+0.667: (alderney airport; is has; 88 metres)
+0.479: (a 1st runway; is has; 88 metres)
+
+bakewell pudding can be served warm or cold .
+No extractions found.
+
+the manager of a . c . milan is sinisa mihajlovic . the club has been managed by alessio romagnoli who plays for u . s . sampdoria .
+0.852: (the club; has been managed by; alessio romagnoli who plays for u)
+0.687: (alessio romagnoli; plays for; u)
+0.653: (milan; is; sinisa mihajlovic)
+
+the periapsis of 1000 piazzia is 352497000000 . 0 and it was completed on 27 july 2015 . it has an orbital period of 488160 . 0 .
+0.84: (it; was completed on; 27 july 2015)
+0.729: (the periapsis of 1000 piazzia; is; 352497000000 . 0 it has an orbital period of 488160 . 0)
+0.674: (it; has an orbital period of 488160; 0)
+0.589: (352497000000 . 0 it has an orbital period of 488160 . 0; be the periapsis of; 1000 piazzia)
+0.555: (it; has 0; an orbital period of 488160)
+0.43: (it; was completed in; 27 july 2015)
+0.31: (an orbital period of 488160; be has 0 by; 352497000000 . 0)
+0.225: (0; be has an orbital period of 488160 by; 352497000000 . 0)
+
+the runway length of appleton international airport is 2439 . 0 .
+0.667: (the runway length of appleton international airport; is; 2439)
+0.492: (2439; be the runway length of; appleton international airport)
+
+the comic book character ben urich ' s full name is benjamin urich and he was created by roger mckenzie .
+0.869: (he; was created by; roger mckenzie)
+0.679: (the comic book character; is; benjamin urich and he was created)
+
+athens international airport , located in spata , serves the city of athens and is 94 metres above sea level . the runway length is 3800 . 0 .
+0.916: (athens international airport located in spata; is 94 metres above; sea level)
+0.834: (athens international airport located in spata; serves; the city of athens)
+0.803: (athens international airport; be located in; spata)
+0.788: (athens international airport located in spata; is; 94 metres)
+0.705: (the runway length; is; 3800)
+
+the birth date of akeem dent was 1987 - 09 - 27 .
+0.669: (the birth date of akeem dent; was; 1987)
+0.492: (1987; be the birth date of; akeem dent)
+
+andrews county airport is located in texas , united states , where the inhabitants are known as tejano .
+0.958: (andrews county airport; is located in; texas where the inhabitants are known as tejano)
+0.931: (the inhabitants; are known as; tejano)
+0.76: (andrews county airport; is located at; texas where the inhabitants are known as tejano)
+0.76: (andrews county airport; is located on; texas where the inhabitants are known as tejano)
+0.621: (the inhabitants; are known in; texas)
+
+the runway length of ardmore airport ( new zealand ) is 518 . 0 .
+No extractions found.
+
+the escape velocity of 66063 1998 ro1 is 0 . 0999 kilometre per second and it was first published on the 4th of november 2013 .
+0.887: (0 . 0999 kilometre per second and it was first; be published on; the 4th of november 2013)
+0.759: (the escape velocity of 66063 1998 ro1; was; 0 . 0999 kilometre per second and it was first published on the 4th of november 2013)
+0.757: (the escape velocity of 66063 1998 ro1; is; 0 . 0999 kilometre per second and it was first published on the 4th of november 2013)
+0.589: (0 . 0999 kilometre per second and it was first published on the 4th of november 2013; be the escape velocity of; 66063 1998 ro1)
+
+anders osborne , who is in the genre of rhythm and blues , has a record label called shanachie records .
+0.87: (anders osborne; is in; the genre of rhythm)
+
+the genre of the singer , aaron turner , is avant - garde metal .
+No extractions found.
+
+the background of the singer , aleksandra kovac , is that of a singer .
+0.874: (the background of the singer; is that of; a singer)
+
+the german national , walter baade , is the discoverer of 1036 ganymed .
+0.93: (the german national , walter baade; is the discoverer of; 1036)
+0.779: (the german national , walter baade; is; the discoverer of 1036)
+
+the genre of the singer , allen forrest , is hip hop .
+0.761: (the genre of the singer; is; hip hop)
+0.55: (hip hop; be the genre of; the singer)
+
+the german national , walter baade , was the discoverer of 1036 ganymed . he graduated from the university of gottingen .
+0.93: (the german national , walter baade; was the discoverer of; 1036)
+0.902: (he; graduated from; the university of gottingen)
+0.781: (the german national , walter baade; was; the discoverer of 1036)
+
+the manufacturer of the audi a1 , which is a variant of the volkswagen polo , is the seat ibiza company .
+0.779: (the audi a1; is a variant of; the volkswagen polo)
+0.663: (the seat ibiza company; be the manufacturer of; the audi a1 which is a variant of the volkswagen polo)
+0.616: (the manufacturer of the audi a1; is; the seat ibiza company)
+
+the guitar player , aaron deer , is in the genre of psychedelia .
+No extractions found.
+
+the american locomotive company was founded in schenectady , new york and is the builder of the 17068 . 8 millimetre long , alco rs - 3 .
+0.9: (the american locomotive company; was founded in; schenectady)
+
+native americans are an ethnic group in the united states where barack obama is the leader . albuquerque , new mexico is lead by the mayor of albuquerque .
+0.934: (new mexico; albuquerque , new mexico is lead by; the mayor of albuquerque)
+0.909: (native americans; are an ethnic group in; the united states where barack obama is the leader)
+0.653: (barack obama; is; the leader)
+0.482: (ethnic; are group in; the united states where barack obama is the leader)
+
+the prime minister of greece is adonis georgiadis , who is part of the new democracy party . the party ' s colours are blue and the leader is antonis samaras .
+0.817: (adonis georgiadis; is part of; the new democracy party)
+0.803: (the party ' s colours; is; blue and the leader is antonis samaras)
+0.757: (the prime minister of greece; is; adonis georgiadis who is part of the new democracy party . the party ' s colours are blue and the leader is antonis samaras)
+0.589: (adonis georgiadis who is part of the new democracy party . the party ' s colours are blue and the leader is antonis samaras; be the prime minister of; greece)
+
+the spanish language is spoken in the country of argentina where the leader is called " juan peron " . he is a member of the labour party and is the spouse of eva peron . he served as the president of the country .
+0.926: (the spanish language; is spoken in; the country of argentina)
+0.88: (he; served as; the president of the country)
+0.861: (he; is a member of; the labour party)
+0.796: (the spanish language; is spoken of; argentina where the leader is called " juan peron ")
+0.705: (the leader; is called; juan peron)
+0.62: (he; is; a member of the labour party)
+0.564: (the leader; is called in; argentina)
+0.302: (he; be the president of; the country)
+
+arros negre is a traditional dish from the catalonia region of spain where the leader is the parliament of catalonia and spaniards are an ethnic group .
+0.923: (arros negre; is a traditional dish from; the catalonia region of spain)
+0.909: (the leader; is the parliament of; catalonia and spaniards)
+0.746: (arros negre; is; a traditional dish)
+0.724: (the leader; is; the parliament of catalonia)
+
+a severed wasp has 388 pages and is available in hardcover with the oclc number 8805735 .
+0.852: (a severed wasp; is available in; hardcover)
+0.794: (a severed wasp; is available with; the oclc number 8805735)
+0.746: (a severed wasp; is; available)
+0.692: (a severed wasp; has; 388 pages)
+
+alfred moore scales was born in reidsville , north carolina . he served as the governor of north carolina and is a member of the democratic party . his predecessor was daniel gould fowle .
+0.907: (alfred moore scales; was born in; reidsville)
+0.887: (he; is a member of; the democratic party)
+0.88: (he; served as; the governor of north carolina)
+0.809: (his predecessor; was; daniel gould fowle)
+0.673: (he; is; a member of the democratic party)
+0.573: (alfred moore scales; was born at; reidsville)
+0.572: (alfred moore scales; was born on; reidsville)
+0.516: (reidsville; was born in; carolina)
+0.303: (he; be the governor of; north carolina)
+
+jusuf kalla is the leader of indonesia where batagor and shumai are found . shumai contains shiitake and is a variation of siomay .
+0.88: (kalla; jusuf is the leader of; indonesia where batagor and shumai are found)
+0.729: (the leader of indonesia; contains; shiitake)
+0.722: (kalla; jusuf is; the leader of indonesia)
+0.568: (a variation of siomay; contains; shiitake)
+0.564: (batagor and shumai; are found in; indonesia)
+
+adonis georgiadis was born in athens , greece . he worked for the ministry of economy development and tourism and is the successor of makis voridis .
+0.9: (adonis georgiadis; was born in; athens)
+0.853: (he; worked for; the ministry of economy development)
+0.797: (he; is the successor of; makis voridis)
+0.717: (adonis georgiadis; was born; greece)
+0.553: (adonis georgiadis; was born at; athens)
+0.552: (adonis georgiadis; was born on; athens)
+0.509: (he; is; the successor of makis voridis)
+0.315: (he; is the successor to; makis voridis)
+
+celery belongs to the family of apiaceae and is an ingredient in bakso .
+0.916: (celery; is an ingredient in; bakso)
+0.866: (celery; belongs to; the family of apiaceae)
+0.746: (celery; is; an ingredient)
+0.662: (celery; is an ingredient of; bakso)
+
+black metal is a genre of death metal and is also where aaron turner , who plays the electric guitar , belongs .
+0.93: (black metal; is a genre of; death metal)
+0.779: (black metal; is; a genre of death metal)
+0.62: (the electric guitar; be plays by; aaron turner)
+
+arese is the assembly place of the alfa romeo 164 which is a variant of the lancia thema and is related to the fiat croma .
+0.944: (arese; is the assembly place of; the alfa romeo 164 which is a variant of the lancia thema)
+0.804: (arese; is; the assembly place of the alfa romeo)
+0.736: (the alfa romeo; is a variant of; the lancia thema)
+0.713: (arese; is related to; the fiat croma)
+
+the genre of the andra singer is " rhythm and blues " which is a variation of " disco " . the singer is a solo singer .
+0.752: (the genre of the andra singer; is; rhythm and blues " which is a variation of " disco)
+0.704: (the singer; is; a solo singer)
+0.476: (rhythm and blues " which is a variation of " disco; be the genre of; the andra singer)
+
+tomato is an ingredient in amatriciana sauce and is part of the solanaceae family and the order of solanales .
+0.913: (tomato; is part of; the solanaceae family)
+0.896: (tomato; is an ingredient in; amatriciana sauce)
+0.802: (tomato; is; an ingredient in amatriciana sauce and is part of the solanaceae family and the order of solanales)
+0.668: (tomato; be the order of; solanales)
+0.608: (tomato; is an ingredient of; amatriciana sauce)
+
+ajoblanco is from the andalusia region of spain where susana diaz is the leader . the language spoken in spain is spanish and the ethnic group is spaniards .
+0.866: (ajoblanco; is from; the andalusia region of spain)
+0.752: (the language; be spoken in; spain)
+0.733: (the language spoken in spain; is; spanish and the ethnic group is spaniards)
+0.653: (susana diaz; is; the leader)
+
+andra singer was born in romania in 1986 . he performed as a solo singer and is in the genre of rhythm and blues .
+0.929: (andra singer; was born in; romania)
+0.9: (andra singer; was born in; 1986)
+0.806: (he; performed as; a solo singer)
+0.791: (he; is in; the genre of rhythm)
+0.645: (andra singer; was born at; romania)
+0.644: (andra singer; was born on; romania)
+0.553: (andra singer; was born at; 1986)
+0.552: (andra singer; was born on; 1986)
+
+ahmet davutoglu is the leader of turkey where the capital is ankara and the largest city is istanbul . the currency of turkey is the turkish lira and the country is the location of the bronze ataturk monument which was inaugurated on 27 july 1932 .
+0.946: (the turkish lira and the country; is the location of; the bronze ataturk monument which was inaugurated on 27 july 1932)
+0.9: (davutoglu; ahmet is the leader of; turkey where the capital is ankara)
+0.815: (the largest city; ahmet is the leader of; turkey where the capital is ankara)
+0.752: (davutoglu; is; the leader of turkey where the capital is ankara and the largest city is istanbul)
+0.75: (davutoglu; ahmet is; the leader of turkey where the capital is ankara and the largest city is istanbul)
+0.724: (the turkish lira and the country; is; the location of the bronze ataturk monument)
+0.653: (the currency of turkey; is; the turkish lira and the country)
+0.399: (the turkish lira and the country; be the currency of; turkey)
+0.18: (the turkish lira and the country; be the currency in; turkey)
+
+the total area of arlington , texas is 258 . 2 square kilometres and is 184 . 0 below sea level .
+0.653: (texas; is; 258 . 2 square kilometres and is 184)
+
+jusuf kalla is the leader of indonesia where the currency is the indonesian rupiah and the language spoken is indonesian . arem - arem is a food found in indonesia but is more specific to java .
+0.9: (kalla; jusuf is the leader of; indonesia where the currency is the indonesian rupiah)
+0.805: (the language spoken; jusuf is the leader of; indonesia where the currency is the indonesian rupiah)
+0.752: (a food; be found in; indonesia)
+0.752: (arem; is; a food found in indonesia)
+0.752: (kalla; is; the leader of indonesia where the currency is the indonesian rupiah and the language spoken is indonesian)
+0.75: (kalla; jusuf is; the leader of indonesia where the currency is the indonesian rupiah and the language spoken is indonesian)
+
+the band twilight and the house of low culture are both associated with the musician , aaron turner , who plays the cello and is in the genre of post - metal .
+0.757: (the musician who plays the cello; is in; the genre of post)
+
+austin is the capital of texas in the united states . the largest city in texas is fort worth and the city of arlington is part of tarrant county .
+0.939: (austin; is the capital of; texas)
+0.922: (fort worth and the city of arlington; is part of; tarrant county)
+0.802: (austin; is; the capital of texas the largest city in texas is fort worth and the city of arlington is part of tarrant county)
+0.757: (fort worth and the city of arlington; is; part of tarrant county)
+0.712: (the largest city; is; fort worth and the city of arlington)
+0.338: (fort worth and the city of arlington; be the largest city in; texas)
+0.31: (largest; be city in; texas)
+0.299: (the largest city; be the city of arlington in; texas)
+
+aleksandra kovac was born in belgrade in 1972 . she is a singer and is in the genre of pop music .
+0.929: (aleksandra kovac; was born in; belgrade)
+0.9: (aleksandra kovac; was born in; 1972)
+0.827: (she; is in; the genre of pop music)
+0.645: (aleksandra kovac; was born at; belgrade)
+0.644: (aleksandra kovac; was born on; belgrade)
+0.553: (aleksandra kovac; was born at; 1972)
+0.552: (aleksandra kovac; was born on; 1972)
+0.539: (she; is; a singer)
+
+the capital of italy is rome and the country is the location of the alfa romeo 164 which is a type of transport and is related to lancia thema .
+0.941: (rome and the country; is the location of; the alfa romeo 164 which is a type of transport)
+0.794: (rome and the country; is; the location of the alfa romeo)
+0.736: (the alfa romeo; is a type of; transport)
+
+bakewell pudding originates from the derbyshire dales and is a variation of bakewell tart . the main ingredients are ground almond , jam , butter and eggs .
+No extractions found.
+
+above the veil , written by garth nix , has 248 pages and is available in hardcover .
+No extractions found.
+
+beef kway teow is a popular dish in singapore where english is spoken and the leader is tony tan .
+0.926: (beef kway teow; is a popular dish in; singapore where english is spoken and the leader is tony tan)
+0.746: (beef kway teow; is; a popular dish)
+0.704: (the leader; is; tony tan)
+0.694: (beef kway teow; is a popular dish of; singapore where english is spoken and the leader is tony tan)
+
+beef kway teow is a popular dish in singapore where halimah yacob is the leader .
+0.926: (beef kway teow; is a popular dish in; singapore where halimah yacob is the leader)
+0.746: (beef kway teow; is; a popular dish)
+0.704: (halimah yacob; is; the leader)
+0.694: (beef kway teow; is a popular dish of; singapore where halimah yacob is the leader)
+
+the 11th mississippi infantry monument falls under the category of contributing property and is located in adams county , pennsylvania . to the north of adams county is cumberland county and to the southeast is carrol county , maryland .
+0.843: (the 11th mississippi infantry monument; falls under; the category contributing property)
+0.796: (the 11th mississippi infantry monument; is located in; adams county)
+0.717: (the 11th mississippi infantry monument; falls to; the north of adams county)
+0.484: (adams county; is located in; pennsylvania)
+
+adolfo suárez madrid – barajas airport is located in madrid , which is lead by ahora madrid and is part of the community of madrid .
+0.78: (suárez madrid –; be adolfo barajas; airport)
+
+operated by the united states air force , al asad airbase is located in iraq and has the icao location identifier oraa . the runway name is 08 / 26 and has a length of 3990 . 0 .
+0.914: (al asad airbase; is located in; iraq)
+0.789: (the runway name; has; a length of 3990)
+0.714: (al asad airbase; be operated by; the united states air force)
+0.705: (the runway name; is; 08 / 26)
+0.596: (al asad airbase; is located at; iraq)
+0.595: (al asad airbase; is located on; iraq)
+
+adirondack regional airport is 507 metres above sea level and has a runway length of 2003 . 0 . it serves the cities of lake placid and saranac lake , new york .
+0.896: (adirondack regional airport; is 507 metres above; sea level)
+0.758: (adirondack regional airport; has; a runway length of 2003)
+0.746: (adirondack regional airport; is; 507 metres)
+0.699: (it; serves; the cities of lake placid and saranac lake)
+
+a severed wasp is available in hardcover and has the oclc number 8805735 .
+0.797: (a severed wasp; is available in; hardcover)
+0.746: (a severed wasp; is; available)
+0.74: (a severed wasp; has; the oclc number 8805735)
+
+adirondack regional airport serves the cities of lake placid and saranac lake , new york and has a runway length of 2003 . 0 .
+0.799: (adirondack regional airport; serves; the cities of lake placid and saranac lake)
+0.612: (adirondack regional airport; has; a runway length of 2003)
+
+the united kingdom is the assembly place of the aston martin v8 which is a type of transport and has the reference number of " aston martin rham / 1 " .
+0.944: (the united kingdom; is the assembly place of; the aston martin v8 which is a type of transport)
+0.804: (the united kingdom; is; the assembly place of the aston martin)
+0.736: (the aston martin; is a type of; transport)
+0.644: (the united kingdom; has of; aston martin rham)
+0.612: (the united kingdom; has; the reference number of " aston martin rham)
+
+antwerp international airport , owned by the flemish region , is operated by the federal government . it is 12 metres above sea level and has a runway length of 600 . 0 .
+0.919: (antwerp international airport owned by the flemish region; is operated by; the federal government)
+0.864: (it; is 12 metres above; sea level)
+0.803: (antwerp international airport; be owned by; the flemish region)
+0.699: (it; has; a runway length of 600)
+0.685: (it; is; 12 metres)
+
+alvis car and engineering company was founded in coventry and is the parent company of the rovers company . it is the manufacturer of the alvis speed 25 which has a straight - six engine .
+0.9: (it; is the manufacturer of; the alvis speed 25 which has a straight - six engine)
+0.9: (alvis car and engineering company; was founded in; coventry)
+0.62: (it; is; the manufacturer of the alvis speed 25)
+0.564: (a straight - six engine; be has by; the alvis speed 25)
+
+1634 : the bavarian crisis , written by virginia demarce and eric flint , is available in print and has 448 pages .
+0.821: (the bavarian crisis written by virginia demarce and eric flint; is available in; print)
+0.793: (the bavarian crisis; be written by; virginia demarce and eric flint)
+0.778: (the bavarian crisis written by virginia demarce and eric flint; is; available)
+0.772: (the bavarian crisis written by virginia demarce and eric flint; has; 448 pages)
+
+a long long way is available in print and paperback and has the oclc number 57392246 .
+0.797: (a long long way; is available in; print and paperback)
+0.746: (a long long way; is; available)
+0.74: (a long long way; has; the oclc number 57392246)
+
+agra airport is located in india and is operated by the indian air force . it is 167 . 94 metres above sea level and has a runway length of 1818 . 0 . the airport ' s icao location identifier is viag .
+0.9: (agra airport; is operated by; the indian air force)
+0.703: (agra airport; is located it is 167 . 94 metres sea level has a runway length 1818 . 0 . the airport ' s location identifier is viag in; india)
+0.647: (it; has; a runway length of 1818)
+0.539: (it; is; 167)
+0.296: (agra airport; is located it is 167 . 94 metres sea level has a runway length 1818 . 0 . the airport ' s location identifier is viag at; india)
+0.295: (agra airport; is located it is 167 . 94 metres sea level has a runway length 1818 . 0 . the airport ' s location identifier is viag on; india)
+
+the addiction journal ( abbreviated to addiction ) comes under the academic discipline of addiction and has the issn number 1360 - 0443 .
+0.752: (the issn number 1360; be has by; the addiction journal ( abbreviated to addiction ) comes under the academic discipline of addiction)
+
+the main ingredients of a bacon sandwich are bread and bacon with ketchup or brown sauce as a condiment . it is popular in the uk and can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
+0.834: (the main ingredients of a bacon sandwich; are bread as; a condiment)
+0.743: (it; can also be known as; a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin)
+0.74: (the main ingredients of a bacon sandwich; be bacon with; ketchup or brown sauce)
+0.552: (it; is popular can in; the uk)
+0.539: (it; is can; popular)
+0.517: (bread and bacon with ketchup or brown sauce as a condiment . it is popular in the uk and can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin; be the main ingredients of; a bacon sandwich)
+0.262: (bread and bacon with ketchup or brown sauce as a condiment . it is popular in the uk and can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin; be the main ingredients in; a bacon sandwich)
+
+awh engineering college in kuttikkattoor , india was established in 2001 and has 250 academic staff . the largest city in india is mumbai .
+0.894: (engineering college; was established in; 2001)
+0.31: (largest; be city in; india)
+
+atlantic city , new jersey is part of new jersey in the united states . new jersey ' s largest city is newark .
+0.939: (atlantic city; is part of; new jersey)
+0.804: (atlantic city; is; part of new jersey)
+0.704: (largest city; is; newark)
+0.704: (new jersey; is; newark)
+
+awh engineering college in kuttikkattoor , kerala has 250 academic staff . kerala ' s leader is kochi .
+0.697: (engineering college; is kochi; kerala)
+
+1913 oaa907 xc is the former name of the company , which is in turn known as " 1001 gaussia " .
+0.944: (1913 oaa907 xc; is the former name of; the company which is in turn)
+0.81: (the company; is in; turn known as " 1001 gaussia ")
+0.736: (1913 oaa907 xc; is; the former name of the company)
+0.613: (former; is name of; the company which is in turn)
+0.458: (turn; be known as; 1001 gaussia)
+
+the comic character blockbuster , also known as mark desmond , was created by gardner fox and carmine infantino .
+0.898: (the comic character blockbuster; be also known as; mark desmond)
+0.858: (the comic character blockbuster; was created by; gardner fox and carmine infantino)
+
+the aid , which has a length of 253260 . 0 ( millimetres ) , was christened on march 16th , 2013 and was in service on the 17th of march , 2013 .
+0.704: (a length of 253260; be has by; the aid)
+
+the band , twilight , are associated with the musician , aaron turner , who plays in the genre of electroacoustic music .
+0.958: (the band , twilight; are associated with; the musician who plays in the genre of electroacoustic music)
+0.792: (the musician; plays in; the genre of electroacoustic music)
+
+1 . 524 metres is the diameter of the halv x - 1 which has 2 stages and 1 , 524 metres of length .
+0.825: (1; is the diameter of; the halv x)
+0.696: (2 stages and 1; be 524 metres of; length)
+0.559: (2 stages and 1; be has by; 1)
+0.554: (1; is; the diameter of the halv x)
+
+atlantic city , new jersey has a total area of 44 . 125 square kilometres .
+0.758: (atlantic city; has; a total area of 44)
+
+arros negre is a traditional dish from the catalonia region of spain . the main ingredients are white rice , cuttlefish or squid , cephalopod ink and cubanelle peppers .
+0.923: (arros negre; is a traditional dish from; the catalonia region of spain)
+0.746: (arros negre; is; a traditional dish)
+
+the american , aaron deer , is a member of the psychedelia genre and was originally from indiana .
+0.911: (the american; is a member of; the psychedelia genre)
+0.788: (the american; is; a member of the psychedelia genre and was originally)
+
+the acharya institute of technology in bangalore , india is affiliated with visvesvaraya technological university . its director is dr . g . p . prabhukumar .
+0.894: (india; is affiliated with; visvesvaraya technological university)
+0.794: (india; is affiliated in; the acharya institute of technology)
+0.72: (its director; is; dr)
+0.242: (g; be the acharya institute of; technology)
+
+william anders , who graduated from afit , m . s . in 1962 , is now retired .
+0.658: (anders; be m in; 1962)
+
+the alco rs - 3 , which has a diesel - electric transmission , was built by the montreal locomotive works .
+0.935: (the alco rs which has a diesel - electric transmission; was built by; the montreal locomotive works)
+0.704: (a diesel; be has by; the alco rs)
+
+a - rosa luna , which has a length of 125800 . 0 ( millimetres ) , was designed on 22nd january 2004 and is a class of cruise ship .
+0.704: (a length of 125800; be has by; a - rosa luna)
+
+a - rosa luna , which has a length of 125800 . 0 metres , was ordered on 22nd january , 2004 .
+0.914: (0 metres; was ordered on; 22nd january)
+
+the manager of real madrid castilla is luis miguel ramis . the club is managed by abner fas who plays for c . d . fas .
+0.931: (the club; is managed by; abner fas who plays for c)
+0.687: (abner fas; plays for; c)
+0.604: (the manager of real madrid castilla; is luis; miguel ramis)
+
+afonso pena international airport is operated by infraero which is located in brasilia .
+0.931: (pena international airport; afonso is operated by; infraero which is located in brasilia)
+
+alison o ' donnell , who plays the voice bodhran , percussion , and autoharp , is in the genre of jazz . the genre is influenced by the blues and the afrobeat genre .
+0.931: (the genre; is influenced by; the blues and the afrobeat genre)
+0.891: (alison o ' donnell , who plays the voice bodhran , percussion , and autoharp; is in; the genre of jazz)
+0.62: (the voice bodhran; be plays by; donnell)
+
+atlantic city international airport is owned by the south jersey transportation authority .
+0.919: (atlantic city international airport; is owned by; the south jersey transportation authority)
+
+alan b miller hall is owned by the college of william and mary .
+0.926: (alan b miller hall; is owned by; the college of william)
+
+julia morgan was born in san francisco and was the architect of the asilomar conference grounds , the riverside art museum and hearst castle . she also designed many significant buildings , including the grounds of asilmar state beach .
+0.914: (julia morgan; was born in; san francisco)
+0.721: (she; also designed; many significant buildings)
+0.595: (julia morgan; was born at; san francisco)
+0.594: (julia morgan; was born on; san francisco)
+
+the 1 . 2 - litre supermini is a member of the audi a1 family which has a front - engine , front - wheel - drive layout and is made in austria .
+0.909: (litre supermini; is a member of; the audi a1 family)
+0.816: (1; is a member of; the audi a1 family)
+0.724: (litre supermini; is; a member of the audi a1 family)
+0.7: (litre supermini; is made in; austria)
+0.539: (1; is; a member of the audi a1 family)
+0.511: (1; is made in; austria)
+
+afc ajax ( amateurs ) ' s ground is in amsterdam , part of amsterdam - centrum and led by eberhard van der laan .
+0.859: () ' s ground; is in; amsterdam)
+0.732: (amateurs ) ' s ground is in amsterdam; be part of; amsterdam)
+
+alpena county regional airport is 210 metres above sea level and is located in maple ridge township , in the united states .
+0.896: (alpena county regional airport; is 210 metres above; sea level)
+0.831: (alpena county regional airport; is located in; the united states)
+0.796: (alpena county regional airport; is located in; maple ridge township)
+0.746: (alpena county regional airport; is; 210 metres)
+
+alberto teisaire was born in mendoza , argentina on 20th of may , 1891 . he served as the provisional president of the argentine senate and as a member of the navy , where he served as a rear admiral . his predecessor was isaac rojas .
+0.834: (1891; may served as; the provisional president of the argentine senate)
+0.806: (he; served as; a rear admiral)
+0.757: (he; may served as; the provisional president of the argentine senate)
+0.632: (his predecessor; may served as; the provisional president of the argentine senate)
+0.569: (1891; may served in; argentina)
+0.534: (his predecessor; may was; isaac rojas)
+0.492: (1891; was born may in; mendoza)
+0.48: (his predecessor; may served in; argentina)
+0.48: (1891; was born may alberto; teisaire)
+0.452: (1891; may was; isaac rojas)
+0.45: (he; may served in; argentina)
+0.404: (his predecessor; was born may in; mendoza)
+0.392: (his predecessor; was born may alberto; teisaire)
+0.375: (he; was born may in; mendoza)
+0.364: (he; was born may alberto; teisaire)
+0.356: (1891; be the provisional president of; the argentine senate)
+0.339: (he; may was; isaac rojas)
+0.256: (he; be the provisional president of; the argentine senate)
+0.159: (his predecessor; be the provisional president of; the argentine senate)
+
+the 1 decembrie 1918 university is located in romania . romania ' s capital is bucharest and its anthem is deșteaptă - te , române ! the country ' s ethnic group is the germans of romania .
+0.894: (1918 university; is located in; romania)
+0.748: (the 1 decembrie 1918 university is located in romania . romania ' s capital is bucharest and its anthem; is; deșteaptă)
+0.538: (1918 university; is located at; romania)
+0.537: (1918 university; is located on; romania)
+
+elliot see died in st . louis , which is part of the kingdom of france , on 28 february 1966 .
+0.861: (louis; is part of; the kingdom of france)
+0.804: (elliot; see died; louis which is part of the kingdom of france)
+0.699: (elliot; see died louis , which is part of the kingdom of france , on 28 february 1966 in; st)
+
+allen forrest was born in dothan , alabama in 1981 . he performed as a solo singer and is in the genre of acoustic music . he was also born in fort campbell .
+0.869: (he; was also born in; fort campbell)
+0.806: (he; performed as; a solo singer)
+0.791: (he; is in; the genre of acoustic music)
+0.788: (allen forrest; was born; alabama)
+0.535: (allen forrest; be alabama in; 1981)
+0.477: (he; was also born at; fort campbell)
+0.476: (he; was also born on; fort campbell)
+
+the doctoral student of halton arp , walter baade , was born in preussisch , oldendorf and graduated from the university of gottingen . he was the discoverer of 1036 ganymed .
+0.914: (walter baade; was born in; preussisch)
+0.887: (he; was the discoverer of; 1036)
+0.862: (walter baade; graduated from; the university of gottingen)
+0.723: (walter baade; was born; oldendorf)
+0.676: (he; was; the discoverer of 1036)
+0.596: (walter baade; was born at; preussisch)
+0.595: (walter baade; was born on; preussisch)
+
+meringue , ice cream , sponge cake or christmas pudding are the main ingredients of baked alaska which can be found in hong kong , france , united states or china .
+0.941: (meringue , ice cream , sponge cake or christmas pudding; are the main ingredients of; baked alaska which can be found in hong kong , france)
+0.657: (meringue , ice cream , sponge cake or christmas pudding; are the main ingredients in; baked alaska which can be found in hong kong , france)
+0.635: (france; can be found in; hong kong)
+0.492: (hong kong; can be found in; france)
+
+arrabbiata sauce can be found in italy where sergio mattarella is the leader .
+0.919: (arrabbiata sauce; can be found in; the leader)
+0.548: (sergio mattarella; italy is; the leader)
+
+the aston martin v8 , which has 5 . 3 litres of water , is made in the uk and is related to the aston martin dbs .
+0.914: (the aston martin v8 which has 5; is made in; the uk)
+0.878: (the aston martin v8 which has 5; is related to; the aston martin dbs)
+0.594: (the aston martin v8 which has 5; is made on; the uk)
+0.515: (5; be has by; the aston martin v8)
+
+the construction of the alco rs - 3 , which has 12 cylinders , was completed in august 1956 at the montreal locomotive works .
+0.779: (1956; be august at; the montreal)
+0.62: (12 cylinders; be has by; the alco rs)
+
+a severed wasp originates from the united states where the capital is washington d . c . and native americans are one of the ethnic groups . the language spoken in the us is english which is also spoken in great britain .
+0.822: (the language spoken in the us; is; english which is also spoken in great britain)
+0.811: (the capital; is washington; d)
+0.767: (c . and native americans; be a severed wasp originates from; the united states where the capital is washington d)
+0.682: (the language; be spoken in; us)
+
+philippe of belgium is the leader of belgium where the french language is spoken . antwerp is a popular tourist destination in the country and is served by antwerpen international airport .
+0.919: (antwerp; is a popular tourist destination in; the country)
+0.908: (philippe of belgium; is the leader of; belgium where the french language is spoken)
+0.871: (antwerp; is the leader of; belgium where the french language is spoken)
+0.866: (antwerp; is served by; antwerpen international airport)
+0.813: (philippe of belgium; is a popular tourist destination in; the country)
+0.783: (philippe of belgium; is; the leader of belgium where the french language is spoken . antwerp is a popular tourist destination)
+0.713: (philippe of belgium; is served by; antwerpen international airport)
+0.589: (the leader of belgium where the french language is spoken . antwerp is a popular tourist destination; be philippe of; belgium)
+0.564: (the french language; is spoken in; belgium)
+
+ayam penyet is a dish from singapore , where tony tan is a leader . it is also found in java , where the baduy are an ethnic group .
+0.909: (ayam penyet; is a dish from; singapore where tony tan is a leader)
+0.828: (it; is also found in; java)
+0.653: (tony tan; is; a leader)
+0.538: (ayam penyet; is; a dish it is also found in java ,)
+
+barny cakes can be found in france where the leaders are claude bartolone and manuel valls .
+0.929: (barny cakes; can be found in; france where the leaders are claude bartolone and manuel valls)
+
+the former team of the tennessee titans is called the " akeem ayers " and they picked him 39th in the draft .
+0.629: (they; is called; the " akeem ayers)
+0.465: (him; be 39th in; the draft)
+
+houston texans player , akeem dent , was born in atlanta , georgia on the 27th of september 1987 .
+0.852: (akeem dent; was born georgia on the 27th of september 1987 in; atlanta)
+0.817: (akeem dent; was born; georgia)
+0.721: (georgia; was born on; the 27th of september 1987)
+0.712: (akeem dent; be georgia on; the 27th of september 1987)
+0.504: (akeem dent; was born georgia on the 27th of september 1987 at; atlanta)
+0.503: (akeem dent; was born georgia on the 27th of september 1987 on; atlanta)
+
+alcatraz versus the evil librarians is from the united states where english is spoken . english is also spoken in great britain .
+0.914: (english; is also spoken in; great britain)
+0.823: (alcatraz; is from; the united states where english)
+
+the vietnamese people are an ethnic group in japan where the akita museum of art is located in akita , akita prefecture .
+0.946: (the vietnamese people; are an ethnic group in; japan where the akita museum of art is located in akita , akita prefecture)
+0.914: (the akita museum of art; is located in; akita , akita prefecture)
+0.62: (ethnic; are group in; japan where the akita museum of art is located in akita , akita prefecture)
+0.595: (the akita museum of art; is located at; akita , akita prefecture)
+0.594: (the akita museum of art; is located on; akita , akita prefecture)
+
+andrews county airport is located 973 metres above sea level and has a runway length of 896 . 0 .
+0.874: (andrews county airport; is located above; sea level)
+
+al asad airbase in iraq is operated by the united states air force and has a runway length of 3992 . 88 .
+0.9: (al asad airbase; is operated by; the united states air force)
+
+the school of business and social sciences at the aarhus university is affiliated with the european university association which has its headquarters in brussels . the city is governed by a magistrate and has mols to its northeast .
+0.856: (the school of business and social sciences; is affiliated has with; the european university association which has its headquarters in brussels)
+0.819: (the city; is governed has by; a magistrate)
+0.732: (the city; is affiliated has with; the european university association which has its headquarters in brussels)
+0.708: (the school of business and social sciences; is governed has by; a magistrate)
+0.643: (its headquarters; be has by; the european university association)
+
+agra airport in uttar pradesh is operated by the indian air force and has the icao location identifier of viag .
+0.9: (agra airport; is operated by; the indian air force)
+
+alison o ' donnell , who plays the autoharp , is a member of the genre of jazz . the genre is influenced by the african - funk genre and is also influenced by traditional folk music .
+0.949: (alison; is a member of; the genre of jazz)
+0.931: (the genre; is also influenced by; traditional folk music)
+0.914: (the genre; is influenced by; the african - funk genre)
+0.779: (alison; is; a member of the genre of jazz)
+0.62: (the autoharp; be plays by; donnell)
+0.588: (alison; is a member of the genre of jazz o; donnell who plays the autoharp)
+0.582: (a member of the genre of jazz; be alison o; donnell who plays the autoharp)
+
+the 1st runway at alderney airport is made of poaceae and has a length of 877 . 0 .
+0.916: (the 1st runway; is made of; poaceae)
+
+allama iqbal international airport is located in pakistan and serves the city of lahore . it is operated by the pakistan civil aviation authority and has a runway length of 2900 . 0 .
+0.9: (allama iqbal international airport; is located in; pakistan)
+0.84: (it; is operated by; the pakistan civil aviation authority)
+0.818: (allama iqbal international airport; is operated by; the pakistan civil aviation authority)
+0.719: (it; is located in; pakistan)
+0.553: (allama iqbal international airport; is located at; pakistan)
+0.552: (allama iqbal international airport; is located on; pakistan)
+0.261: (it; is located at; pakistan)
+0.261: (it; is located on; pakistan)
+
+the capital of the united states is washington d . c . and one of the ethnic groups is asian americans . the country is inhabited by americans and is the location of albany , oregon .
+0.894: (the country; is inhabited by; americans)
+0.82: (the capital of the united states; is washington; d)
+0.793: (c . and one of the ethnic groups; is; asian americans the country is inhabited by americans and is the location of albany , oregon)
+0.751: (the country; is inhabited; oregon)
+
+the manager of hull city a . f . c . is steve bruce . the club is affiliated with penarol and the youth club is central espanol .
+0.894: (the club; is affiliated with; penarol and the youth club)
+0.704: (steve bruce the club is affiliated with penarol and the youth club; is; central espanol)
+0.575: (a . f . c; is; steve bruce the club is affiliated with penarol and the youth club)
+0.564: (the club; is affiliated in; steve bruce)
+
+meringue , ice cream and sponge cake ( or christmas pudding ) are the main ingredients of baked alaska which comes from the united states and can be found in paris , new york or hong kong .
+0.626: (baked alaska; comes from; the united states)
+
+arrabbiata sauce is from italy and contains chili pepper .
+0.782: (arrabbiata sauce; contains; chili pepper)
+
+the conservative party ( uk ) is the political party of adam holloway who was born in faversham , kent , england . he graduated from magdalene college , cambridge in 2005 and was a member of the grenadier guards .
+0.886: (he; was a member of; the grenadier guards)
+0.87: (the conservative party; was a member of; the grenadier guards)
+0.75: (he; graduated; cambridge)
+0.721: (the conservative party; graduated; cambridge)
+0.691: (he; graduated cambridge in 2005 from; magdalene college)
+0.675: (he; was; a member of the grenadier guards)
+0.658: (the conservative party; graduated cambridge in 2005 from; magdalene college)
+0.641: (the conservative party; was; a member of the grenadier guards)
+0.577: (cambridge; be graduated from; magdalene college)
+0.479: (faversham; was born in; kent)
+0.437: (kent; was born in; faversham)
+
+a severed wasp originates from the united states and is written in english which is spoken in great britain .
+No extractions found.
+
+bhajji originates from the karnataka region of india and are also known as bhaji or bajji . the main ingredients are gram flour and vegetables .
+No extractions found.
+
+103 hera was found by james craig watson , who graduated from the university of michigan and died in madison , wisconsin . he died from peritonitis .
+0.9: (103 hera; was found by; james craig watson)
+0.84: (he; died from; peritonitis)
+
+the full name of a . s . livorno calcio s . p . a . , which has 19238 members , is livorno , italy .
+0.234: (full; be name of; p)
+
